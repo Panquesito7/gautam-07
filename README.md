@@ -2,7 +2,7 @@
 
  - I’m currently working on my C++ skills.
 <br></br>
- - I’m currently working on DSA and Python
+ - I’m currently learning DSA and Python
  - I’m looking to collaborate on C++ projects.
 <br></br>
  - My hobby is Cooking.
