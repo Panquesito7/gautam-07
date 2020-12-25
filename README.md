@@ -1,4 +1,4 @@
-### Hola, I am Gautam Khatter! 👋
+### Hola Amigos, I am Gautam Khatter! 👋
 
 - 👨‍💻 Till last year I didn't even knew that I loved programming.
 - 🔭 I’m currently working on my C++ skills.
