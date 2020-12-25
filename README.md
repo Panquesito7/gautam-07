@@ -1,6 +1,6 @@
 ### Hola Amigos, I am Gautam Khatter! 👋
 
-- 👨‍💻 Till last year I didn't even knew that I loved programming.
+- ❄️ Till last year I didn't even knew that I loved programming.
 - 🔭 I’m currently working on my C++ skills.
 <br></br>
 - 🌱 I’m currently learning Data Structures and Algorithms.
