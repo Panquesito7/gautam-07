@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on C++ projects.
 - 🤔 I’m looking for help with Game Development.
 - 💬 Let's talk about tech, and how we can innovate things.
-- 📫 How to reach me: [Twitter - @gautamkhatter_7](https://twitter.com/gautamkhatter_7), [LinkedIn - @gautamkhatter-7](www.linkedin.com/in/gautamkhatter-7)
+- 📫 How to reach me: [Twitter - @gautamkhatter_7](https://twitter.com/gautamkhatter_7),  [LinkedIn - @gautamkhatter-7](www.linkedin.com/in/gautamkhatter-7)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: My friends say I am a geek.
 
