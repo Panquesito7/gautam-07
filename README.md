@@ -2,7 +2,7 @@
 
  - I’m currently working on my C++ skills.
 <br></br>
- - I’m currently learning DSA and Python
+ - I’m also learning DSA and Python.
  - I’m looking to collaborate on C++ projects.
 <br></br>
  - My hobby is Cooking.
@@ -10,4 +10,4 @@
 <br></br>
  - How to reach me: <br>[Twitter  - @gautamkhatter_7](https://twitter.com/gautamkhatter_7)</br>
 [Facebook - @khattergautam7](https://www.facebook.com/khattergautam7)
-<img src = "https://github-readme-stats.vercel.app/api?username=gautam-07&&show_icons=true&title_color=dc7d4e&icon_color=dc7d4e&text_color=000000&bg_color=4e586e">
+<img src = "https://github-readme-stats.vercel.app/api?username=gautam-07&&show_icons=true&title_color=d31336&icon_color=820f15&text_color=def4e4&bg_color=000000">
