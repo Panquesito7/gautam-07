@@ -1,7 +1,9 @@
 
 
 ## ✥ My whole development journey is credited to my mentor :- <a href="https://www.youtube.com/user/saurabhexponent1">Mr. Saurabh Shukla</a>
-## Hola Amigos, I am Gautam Khatter 🥷
+<br>
+
+## Hola Amigos, I am Gautam Khatter ♕
 
   - ♦️ In pursuit to become a game developer.</li>
   - ♦️ I’m currently working on my C++ skills.</li>
