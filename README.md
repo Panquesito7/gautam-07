@@ -3,7 +3,7 @@
 ### ✥ My whole development journey is credited to my mentor :- <a href="https://www.youtube.com/user/saurabhexponent1">Mr. Saurabh Shukla</a>
 <br>
 
-## Hola Amigos, I am <a href="https://www.codechef.com/users/luffy_7">Gautam Khatter ♕</a>
+## Hola Amigos, I am <u>Gautam Khatter</u> <a href="https://www.codechef.com/users/luffy_7">♕</a>
 
   -  In pursuit to become a game developer.</li>
   -  I’m currently working on my C++ skills.</li>
