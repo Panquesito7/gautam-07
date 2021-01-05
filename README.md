@@ -11,7 +11,8 @@
  
  👨🏻‍🏫 <I>“It is the supreme art of the teacher to awaken joy in creative expression and knowledge.”</I> – Albert Einstein
   
-## Hola Amigos !  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
+##  <a href="https://www.quora.com/What-does-%E2%80%9CHola-amigos%E2%80%9D-mean-1">Hola Amigos !</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
+
 <a href="https://discord.gg/PZQngqcUz8">
 <img align="right" alt="Gautam Khatter's discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 <a href="https://www.youtube.com/channel/UCY9Rc7oBWZZXExtgJcsQluA">
@@ -35,7 +36,7 @@
   -  Fun fact: Made this account in 2018. At that time I didn't even knew what GitHub was. 😅
  
 
- <h3>Languages and tools :-</h3>
+ <h3> <a href="https://en.wikipedia.org/wiki/Programming_language#:~:text=A%20programming%20language%20is%20a,consist%20of%20instructions%20for%20computers.">Languages and tools </a></h3>
  
 <code><img height="20" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
