@@ -1,19 +1,23 @@
 
 
-### ✥ My whole development journey is credited to my mentor :- <a href="https://www.youtube.com/user/saurabhexponent1">Mr. Saurabh Shukla</a>
+### ✥ My whole development journey is credited to my mentor :- <a href="https://www.mysirg.com/">Mr. Saurabh Shukla
+<a href="https://www.youtube.com/user/saurabhexponent1">
+<img align="right" alt="MySirg" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
 <br>
 
 ## Hola Amigos, I am <u>Gautam Khatter</u> <a href="https://codeforces.com/profile/luffy.07">♕ 
+
+<a href="https://discord.gg/code {with} luffy">
+<img align="right" alt="Gautam Khatter's discord" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://www.youtube.com/channel/UCY9Rc7oBWZZXExtgJcsQluA">
+<img align="right" alt="Gautam Khatter's youtube" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+<a href="https://www.facebook.com/khattergautam7">
+<img align="right" alt="Gautam Khatter's Facebook" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+<a href="https://www.linkedin.com/in/gautamkhatter-7">
+<img align="right" alt="Gautam Khatter's LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 <a href="https://twitter.com/gautamkhatter_7">
 <img align="right" alt="Gautam Khatter | Twitter" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-<a href="https://www.linkedin.com/in/gautamkhatter-7">
-<img align="right" alt="Gautam Khatter's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-<a href="https://www.facebook.com/khattergautam7">
-<img align="right" alt="Gautam Khatter's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-<a href="https://discord.gg/734115527349370921">
-<img align="right" alt="Gautam Khatter's discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-<a href="https://www.youtube.com/channel/UCY9Rc7oBWZZXExtgJcsQluA">
-<img align="right" alt="Gautam Khatter's youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
   -  In pursuit to become a game developer.</li>
