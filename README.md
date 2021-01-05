@@ -1,6 +1,6 @@
 
 
-### ✥ My whole development journey is credited to my mentor :- <a href="https://www.mysirg.com/">Mr. Saurabh Shukla
+### ✥ My whole development journey is credited to my mentor :- <a href="https://www.mysirg.com/"><I>Mr. Saurabh Shukla</I>
 <a href="https://www.youtube.com/user/saurabhexponent1">
 <img align="right" alt="MySirg" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 <a href="https://www.facebook.com/mysirg/">
@@ -8,8 +8,10 @@
 <a href="https://twitter.com/sshukla_manit">
 <img align="right" alt="MySirg" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+ 
+ 👨🏻‍🏫 <I>“It is the supreme art of the teacher to awaken joy in creative expression and knowledge.”</I>
   
-## Hola Amigos!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
+## Hola Amigos !  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
 <a href="https://discord.gg/PZQngqcUz8">
 <img align="right" alt="Gautam Khatter's discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 <a href="https://www.youtube.com/channel/UCY9Rc7oBWZZXExtgJcsQluA">
@@ -22,7 +24,7 @@
 <img align="right" alt="Gautam Khatter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-  - I am Gautam Khatter. 
+  - I am <a href="https://codeforces.com/profile/luffy.07"><b><I>Gautam Khatter</I>    ♕</b></a> 
   -  In pursuit to become a game developer.
   -  I’m currently working on my C++ skills.
 <br></br>
@@ -41,7 +43,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<a href="https://codeforces.com/profile/luffy.07">♕</a>
 <code><img height="20" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" 
