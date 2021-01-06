@@ -25,7 +25,7 @@
 <img align="right" alt="Gautam Khatter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-  ### <I><a href="https://codeforces.com/profile/luffy.07"><b>I am Gautam Khatter</I>&nbsp;♕</b></a> 
+  ### <I><a href="https://codeforces.com/profile/luffy.07"><b>I am Gautam Khatter</I> &nbsp; ♕</b></a> 
   -  In pursuit to become a game developer.
   -  I’m currently working on my C++ skills.
 <br></br>
@@ -36,7 +36,7 @@
   -  Fun fact: Made this account in 2018. At that time I didn't even knew what GitHub was. 😅
  
 
- <h3> <a href="https://en.wikipedia.org/wiki/Programming_language#:~:text=A%20programming%20language%20is%20a,consist%20of%20instructions%20for%20computers.">Languages and tools   &nbsp; 🛠  </a></h3>
+ <h3> <a href="https://en.wikipedia.org/wiki/Programming_language#:~:text=A%20programming%20language%20is%20a,consist%20of%20instructions%20for%20computers.">Languages and tools   &nbsp;  🛠  </a></h3>
  
 <code><img height="20" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -50,7 +50,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
+<code><img height="20" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
 
 <br></br>
