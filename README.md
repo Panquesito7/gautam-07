@@ -11,7 +11,7 @@
  
    <I>“It is the supreme art of the teacher to awaken joy in creative expression and knowledge.”</I> – Albert Einstein
   
-##  <a href="https://www.quora.com/What-does-%E2%80%9CHola-amigos%E2%80%9D-mean-1"> H o l a &nbsp;A m i g o s !</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
+##  <a href="https://www.quora.com/What-does-%E2%80%9CHola-amigos%E2%80%9D-mean-1"> H o l a &nbsp; A m i g o s !</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
 
 <a href="https://discord.gg/PZQngqcUz8">
 <img align="right" alt="Gautam Khatter's discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
