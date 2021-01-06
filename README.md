@@ -9,7 +9,7 @@
 <img align="right" alt="MySirg" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
  
- 👨🏻‍🏫     <I>“It is the supreme art of the teacher to awaken joy in creative expression and knowledge.”</I> – Albert Einstein
+   <I>“It is the supreme art of the teacher to awaken joy in creative expression and knowledge.”</I> – Albert Einstein
   
 ##  <a href="https://www.quora.com/What-does-%E2%80%9CHola-amigos%E2%80%9D-mean-1">Hola Amigos !</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
 
@@ -25,7 +25,7 @@
 <img align="right" alt="Gautam Khatter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-  ### 👨🏻‍💻  <I> I am <a href="https://codeforces.com/profile/luffy.07"><b>Gautam Khatter</I>    ♕</b></a> 
+  ### <I><a href="https://codeforces.com/profile/luffy.07"><b>I am Gautam Khatter</I> ♕</b></a> 
   -  In pursuit to become a game developer.
   -  I’m currently working on my C++ skills.
 <br></br>
