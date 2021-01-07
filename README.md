@@ -30,6 +30,7 @@
 
 
 <h3> <I><b>I am Gautam Khatter</I> &nbsp; <a href="https://codeforces.com/profile/luffy.07">♕</b></a></h3>
+<br>
 
 <pre>
    🎃  A geek.
@@ -46,6 +47,7 @@
 <br>
 
 <h3 align="center"> My Favourite Quotes  ❛ ❜</h3>
+<br>
 
 <pre>
  <i>“ Imagination is more important than knowledge ”</i> - Albert Einstien
@@ -56,11 +58,11 @@
 </pre>
 
 <br>
-<p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=gautam07&&show_icons=true&title_color=eb9762&icon_color=d8b199&text_color=def4e4&bg_color=000000"></p>
-<br>
+<p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=gautam-07&&show_icons=true&title_color=eb9762&icon_color=d8b199&text_color=def4e4&bg_color=000000"></p>
 
 <br>
  <h3 align="center"> Languages and tools   &nbsp;  🛠 </h3>
+
 
 <code><img height="20" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
