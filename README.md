@@ -44,8 +44,6 @@
 </pre>
 
 <br>
-<p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=gautam-07&&show_icons=true&title_color=eb9762&icon_color=d8b199&text_color=def4e4&bg_color=000000"></p>
-<br>
 
 <h3 align="center"> My Favourite Quotes  ❛ ❜</h3>
 
@@ -56,6 +54,10 @@
  
  <i>“ Your time is limited, so don’t waste it living someone else’s life. ” </i> - Steve Jobs
 </pre>
+
+<br>
+<p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=gautam07&&show_icons=true&title_color=eb9762&icon_color=d8b199&text_color=def4e4&bg_color=000000"></p>
+<br>
 
 <br>
  <h3 align="center"> Languages and tools   &nbsp;  🛠 </h3>
