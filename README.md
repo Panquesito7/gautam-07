@@ -10,7 +10,7 @@
 </a>
  
 <code>
-  “It is the supreme art of the teacher to awaken joy in creative expression and knowledge.”  Albert Einstein
+ <i>“It is the supreme art of the teacher to awaken joy in creative expression and knowledge.”</i>  Albert Einstein
 </code>
  
 ##  <a href="https://www.quora.com/What-does-%E2%80%9CHola-amigos%E2%80%9D-mean-1"> H o l a &nbsp; A m i g o s !</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
@@ -31,15 +31,15 @@
 <h3> <I><b>I am Gautam Khatter</I> &nbsp; <a href="https://codeforces.com/profile/luffy.07">♕</b></a></h3>
 
 <pre>
-   🎃 Never went to college.
-   🕹  In pursuit to become a game developer.
-   ✒️ I’m currently working on my C++ skills.
+   🎃  Never went to college.
+   🕹   In pursuit to become a game developer.
+   ✒️  I’m currently working on my C++ skills.
    
-   🌱 I love learning new things everyday
-   🌼 I’m looking to collaborate on C++ projects.
+   🌱  I love learning new things everyday
+   🌼  I’m looking to collaborate on C++ projects.
    
-   👨‍🍳 My hobby is Cooking.
-   😅 Fun fact: Made this account in 2018. At that time I didn't even knew what GitHub was. 😅
+   👨‍🍳  My hobby is Cooking.
+   😅  Fun fact: Made this account in 2018. At that time I didn't even knew what GitHub was. 😅
 </pre>
 
 <h3 align="center"> My Favourite Quotes </h3>
