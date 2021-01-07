@@ -36,7 +36,7 @@
    🎃  A geek.
    🕹   In pursuit to become a game developer.
    ✒️  I’m currently working on my C++ skills.
-   <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" align="right" width="130px" alt="square"></a>
+   <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" align="right" width="100px" alt="square"></a>
    🌱  I love learning new things everyday.
    🌼  I’m looking to collaborate on C++ projects.
    
@@ -57,32 +57,30 @@
  🔸 <i>“ Tell me and I forget. Teach me and I remember. Involve me and I learn ” </i>  - <b>Benjamin Franklin</b>
  
  🔸 <i>“ It is during our darkest moments that we must focus to see the light. ” </i>  - <b>Aristotle</b>
- 
 </pre>
 
 <br>
-<p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=gautam-07&&show_icons=true&title_color=eb9762&icon_color=d8b199&text_color=def4e4&bg_color=000000"></p>
-<br>
 
- <h3 align="center"> Languages and tools   &nbsp;  🛠 </h3>
-
+<h3 align="center"> Languages and tools   &nbsp;  🛠 </h3>
 
 <code><img height="20" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" 
+&nbsp;<code><img height="20" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" 
+&nbsp;<code><img height="20" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" 
+&nbsp;<code><img height="20" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" 
+&nbsp;<code><img height="20" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" 
+&nbsp;<code><img height="20" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" 
+&nbsp;<code><img height="20" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
 <br>
+
+<p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=gautam-07&&show_icons=true&title_color=eb9762&icon_color=d8b199&text_color=def4e4&bg_color=000000"></p>
 
 
 
