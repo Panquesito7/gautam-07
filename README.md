@@ -36,7 +36,7 @@
    🎃  A geek.
    🕹   In pursuit to become a game developer.
    ✒️  I’m currently working on my C++ skills.
-   
+   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" align="right" width="100px"></a>
    🌱  I love learning new things everyday.
    🌼  I’m looking to collaborate on C++ projects.
    
@@ -51,7 +51,7 @@
  🔸 <i>“ Imagination is more important than knowledge ”</i>                            - <b>Albert Einstien</b>
  
  🔸 <i>“ The way to get started is quit talking and begin doing ”</i>                  - <b>Walt Disney</b>
- 
+ <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" align="right" width="100px"></a>
  🔸 <i>“ Your time is limited, so don’t waste it living someone else’s life. ” </i>    - <b>Steve Jobs</b>
  
  🔸 <i>“ Tell me and I forget. Teach me and I remember. Involve me and I learn ” </i>  - <b>Benjamin Franklin</b>
