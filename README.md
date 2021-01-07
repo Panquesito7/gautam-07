@@ -36,12 +36,16 @@
    🕹   In pursuit to become a game developer.
    ✒️  I’m currently working on my C++ skills.
    
-   🌱  I love learning new things everyday
+   🌱  I love learning new things everyday.
    🌼  I’m looking to collaborate on C++ projects.
    
    👨‍🍳  My hobby is Cooking.
-   😅  Fun fact: Made this account in 2018. At that time I didn't even knew what GitHub was. 😅
+   😅  Fun fact: Made this account in 2018. At that time I didn't even knew what GitHub was.
 </pre>
+
+<br>
+<p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=gautam-07&&show_icons=true&title_color=eb9762&icon_color=d8b199&text_color=def4e4&bg_color=000000"></p>
+<br>
 
 <h3 align="center"> My Favourite Quotes  ❛ ❜</h3>
 
@@ -53,6 +57,7 @@
  <i>“ Your time is limited, so don’t waste it living someone else’s life. ” </i> - Steve Jobs
 </pre>
 
+<br>
  <h3 align="center"> Languages and tools   &nbsp;  🛠 </h3>
 
 <code><img height="20" 
@@ -70,8 +75,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <code><img height="20" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
+<br>
 
-<br><br>
-<p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=gautam-07&&show_icons=true&title_color=eb9762&icon_color=d8b199&text_color=def4e4&bg_color=000000"></p>
 
 
