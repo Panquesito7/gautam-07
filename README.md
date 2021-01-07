@@ -28,7 +28,7 @@
 </a>
 
 
-### <I><a href="https://codeforces.com/profile/luffy.07"><b>I am Gautam Khatter</I> &nbsp; ♕</b></a>
+### <I><b>I am Gautam Khatter</I> &nbsp; <a href="https://codeforces.com/profile/luffy.07">♕</b></a>
 <pre>
    🎃 Never went to college.
    🕹  In pursuit to become a game developer.
@@ -50,7 +50,7 @@
  <i>“ Your time is limited, so don’t waste it living someone else’s life. ” </i> - Steve Jobs
 </pre>
 
- <h3> <a href="https://en.wikipedia.org/wiki/Programming_language#:~:text=A%20programming%20language%20is%20a,consist%20of%20instructions%20for%20computers.">Languages and tools   &nbsp;  🛠  </a></h3>
+ <h3> Languages and tools   &nbsp;  🛠 </h3>
 
 <code><img height="20" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
