@@ -9,9 +9,9 @@
 <img align="right" alt="MySirg" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
  
-<pre>
-<I>“It is the supreme art of the teacher to awaken joy in creative expression and knowledge.”</I> –Albert Einstein
-</pre>
+<code>
+  “It is the supreme art of the teacher to awaken joy in creative expression and knowledge.”  Albert Einstein
+</code>
  
 ##  <a href="https://www.quora.com/What-does-%E2%80%9CHola-amigos%E2%80%9D-mean-1"> H o l a &nbsp; A m i g o s !</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
 
@@ -30,9 +30,9 @@
 
 ### <I><a href="https://codeforces.com/profile/luffy.07"><b>I am Gautam Khatter</I> &nbsp; ♕</b></a>
 <pre>
-   ❄️ Never went to college.
-   🔥 In pursuit to become a game developer.
-   👨🏻‍💻 I’m currently working on my C++ skills.
+   🎃 Never went to college.
+   🕹  In pursuit to become a game developer.
+   ✒️ I’m currently working on my C++ skills.
    
    🌱 I love learning new things everyday
    🌼 I’m looking to collaborate on C++ projects.
@@ -41,8 +41,17 @@
    😅 Fun fact: Made this account in 2018. At that time I didn't even knew what GitHub was. 😅
 </pre>
 
- <h3> <a href="https://en.wikipedia.org/wiki/Programming_language#:~:text=A%20programming%20language%20is%20a,consist%20of%20instructions%20for%20computers.">Languages and tools   &nbsp;  🛠  </a></h3>
+### My Favourite Quotes
+<pre>
+ <i>“ Imagination is more important than knowledge ”</i> - Albert Einstien
  
+ <i>“ The way to get started is quit talking and begin doing ”</i> - Walt Disney
+ 
+ <i>“ Your time is limited, so don’t waste it living someone else’s life. ” </i> - Steve Jobs
+</pre>
+
+ <h3> <a href="https://en.wikipedia.org/wiki/Programming_language#:~:text=A%20programming%20language%20is%20a,consist%20of%20instructions%20for%20computers.">Languages and tools   &nbsp;  🛠  </a></h3>
+
 <code><img height="20" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" 
