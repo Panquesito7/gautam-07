@@ -44,23 +44,26 @@
    😅  Fun fact: Made this account in 2018. At that time I didn't even knew what GitHub was.
 </pre>
 
-<br>
-
 <h3 align="center"> My Favourite Quotes  ❛ ❜</h3>
 <br>
 
 <pre>
- <i>“ Imagination is more important than knowledge ”</i> - Albert Einstien
+ 🔸 <i>“ Imagination is more important than knowledge ”</i>                            - <b>Albert Einstien</b>
  
- <i>“ The way to get started is quit talking and begin doing ”</i> - Walt Disney
+ 🔸 <i>“ The way to get started is quit talking and begin doing ”</i>                  - <b>Walt Disney</b>
  
- <i>“ Your time is limited, so don’t waste it living someone else’s life. ” </i> - Steve Jobs
+ 🔸 <i>“ Your time is limited, so don’t waste it living someone else’s life. ” </i>    - <b>Steve Jobs</b>
+ 
+ 🔸 <i>“ Tell me and I forget. Teach me and I remember. Involve me and I learn ” </i>  - <b>Benjamin Franklin</b>
+ 
+ 🔸 <i>“ It is during our darkest moments that we must focus to see the light. ” </i>  - <b>Aristotle</b>
+ 
 </pre>
 
 <br>
 <p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=gautam-07&&show_icons=true&title_color=eb9762&icon_color=d8b199&text_color=def4e4&bg_color=000000"></p>
-
 <br>
+
  <h3 align="center"> Languages and tools   &nbsp;  🛠 </h3>
 
 
