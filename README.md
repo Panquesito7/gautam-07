@@ -25,16 +25,19 @@
 <img align="right" alt="Gautam Khatter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-  ### <I><a href="https://codeforces.com/profile/luffy.07"><b>I am Gautam Khatter</I> &nbsp; ♕</b></a> 
-  -  In pursuit to become a game developer.
-  -  I’m currently working on my C++ skills.
-<br></br>
-  -  I’m also learning DSA and Python.
-  -  I’m looking to collaborate on C++ projects.
-<br></br>
-  -  My hobby is Cooking.
-  -  Fun fact: Made this account in 2018. At that time I didn't even knew what GitHub was. 😅
- 
+
+### <I><a href="https://codeforces.com/profile/luffy.07"><b>I am Gautam Khatter</I> &nbsp; ♕</b></a>
+<pre>
+   Never went to college.
+   In pursuit to become a game developer.
+   I’m currently working on my C++ skills.
+   
+   I love learning new things everyday
+   I’m looking to collaborate on C++ projects.
+   
+   My hobby is Cooking.
+   Fun fact: Made this account in 2018. At that time I didn't even knew what GitHub was. 😅
+</pre>
 
  <h3> <a href="https://en.wikipedia.org/wiki/Programming_language#:~:text=A%20programming%20language%20is%20a,consist%20of%20instructions%20for%20computers.">Languages and tools   &nbsp;  🛠  </a></h3>
  
