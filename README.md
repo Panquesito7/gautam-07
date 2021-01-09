@@ -2,11 +2,11 @@
 
 ### 🔸 I reached here because of my mentor <a href="https://www.mysirg.com/"><I>Mr. Saurabh Shukla</I>
 <a href="https://www.youtube.com/user/saurabhexponent1">
-<img align="right" alt="MySirg" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+<img align="right" alt="MySirg" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 <a href="https://www.facebook.com/mysirg/">
-<img align="right" alt="MySirg" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+<img align="right" alt="MySirg" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 <a href="https://twitter.com/sshukla_manit">
-<img align="right" alt="MySirg" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<img align="right" alt="MySirg" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
  
 <code>
@@ -16,16 +16,18 @@
  
  <h2 align="center"> <a href="https://www.quora.com/What-does-%E2%80%9CHola-amigos%E2%80%9D-mean-1"> H o l a &nbsp; A m i g o s !</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> </h2>
 
+<a href="https://www.twitch.tv/play_with_luffy">
+<img align="right" alt="Gautam Khatter's discord" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
 <a href="https://discord.gg/PZQngqcUz8">
-<img align="right" alt="Gautam Khatter's discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<img align="right" alt="Gautam Khatter's discord" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 <a href="https://www.youtube.com/channel/UCY9Rc7oBWZZXExtgJcsQluA">
-<img align="right" alt="Gautam Khatter's youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+<img align="right" alt="Gautam Khatter's youtube" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 <a href="https://www.facebook.com/khattergautam7">
-<img align="right" alt="Gautam Khatter's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+<img align="right" alt="Gautam Khatter's Facebook" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 <a href="https://www.linkedin.com/in/gautamkhatter-7">
-<img align="right" alt="Gautam Khatter's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<img align="right" alt="Gautam Khatter's LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 <a href="https://twitter.com/gautamkhatter_7">
-<img align="right" alt="Gautam Khatter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<img align="right" alt="Gautam Khatter | Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 
