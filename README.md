@@ -9,8 +9,8 @@
 <img align="right" alt="MySirg" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
  
-<code>
- <i>“It is the supreme art of the teacher to awaken joy in creative expression and knowledge.”</i> - <b>Albert Einstein</b>
+<code color="D8B199">
+ <i>“ It is the supreme art of the teacher to awaken joy in creative expression and knowledge. ”</i> - <b>Albert Einstein</b>
 </code>
  
  
@@ -35,7 +35,7 @@
 <h3> <I><b>I am Gautam Khatter</I> &nbsp; <a href="https://codeforces.com/profile/luffy.07">♕</b></a></h3>
 <br>
 
-<pre>
+<pre color="B5BCC2">
    🎃  A geek.
    🕹   In pursuit to become a game developer.
    ✒️  I’m currently working on my C++ skills.
@@ -50,7 +50,7 @@
 <h3 align="center"> My Favourite Quotes  ❛ ❜</h3>
 <br>
 
-<pre>
+<pre color="D8B199">
  🔸 <i>“ Imagination is more important than knowledge ”</i>                            - <b>Albert Einstien</b>
  
  🔸 <i>“ The way to get started is quit talking and begin doing ”</i>                  - <b>Walt Disney</b>
