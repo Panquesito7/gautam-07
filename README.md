@@ -9,7 +9,7 @@
 <img align="right" alt="MySirg" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
  
-<code color="D8B199">
+<code color="d31336">
  <i>“ It is the supreme art of the teacher to awaken joy in creative expression and knowledge ”</i> - <b>Albert Einstein</b>
 </code>
  
@@ -32,10 +32,10 @@
 </a>
 
 
-<h3> <I><b>I am Gautam Khatter</I> &nbsp; <a href="https://codeforces.com/profile/luffy.07">♕</b></a></h3>
+<h3><I><b>I am Gautam Khatter</I> &nbsp; <a href="https://codeforces.com/profile/luffy.07">♕</b></a></h3>
 <br>
 
-<pre color="D31336">
+<pre color="3a5a81">
    🎃  A geek.
    🕹   In pursuit to become a game developer.
    ✒️  I’m currently working on my C++ skills.
