@@ -9,7 +9,7 @@
 <img align="right" alt="MySirg" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
  
-<code color="d31336">
+<code>
  <i>“ It is the supreme art of the teacher to awaken joy in creative expression and knowledge ”</i> - <b>Albert Einstein</b>
 </code>
  
@@ -35,7 +35,7 @@
 <h3><I><b>I am Gautam Khatter</I> &nbsp; <a href="https://codeforces.com/profile/luffy.07">♕</b></a></h3>
 <br>
 
-<pre color="3a5a81">
+<pre>
    🎃  A geek.
    🕹   In pursuit to become a game developer.
    ✒️  I’m currently working on my C++ skills.
@@ -50,7 +50,7 @@
 <h3 align="center"> My Favourite Quotes  ❛ ❜</h3>
 <br>
 
-<pre color="D8B199">
+<pre>
  🔸 <i>“ Imagination is more important than knowledge ”</i>                            - <b>Albert Einstien</b>
  
  🔸 <i>“ The way to get started is quit talking and begin doing ”</i>                  - <b>Walt Disney</b>
@@ -87,6 +87,13 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br><br>
 
 <p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=gautam-07&&show_icons=true&title_color=eb9762&icon_color=d8b199&text_color=def4e4&bg_color=000000"></p>
+
+<br>
+
+<h3 align="center">Wanna get together and talk geeky stuff</h3>
+<li align="center"><a href="gomzekh@gmail.com">Mail Me</a></li>
+
+
 
 
 
