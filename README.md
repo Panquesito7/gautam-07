@@ -10,7 +10,7 @@
 </a>
  
 <code color="D8B199">
- <i>“ It is the supreme art of the teacher to awaken joy in creative expression and knowledge. ”</i> - <b>Albert Einstein</b>
+ <i>“ It is the supreme art of the teacher to awaken joy in creative expression and knowledge ”</i> - <b>Albert Einstein</b>
 </code>
  
  
@@ -35,7 +35,7 @@
 <h3> <I><b>I am Gautam Khatter</I> &nbsp; <a href="https://codeforces.com/profile/luffy.07">♕</b></a></h3>
 <br>
 
-<pre color="B5BCC2">
+<pre color="E07EF0">
    🎃  A geek.
    🕹   In pursuit to become a game developer.
    ✒️  I’m currently working on my C++ skills.
