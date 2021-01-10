@@ -35,7 +35,7 @@
 <h3> <I><b>I am Gautam Khatter</I> &nbsp; <a href="https://codeforces.com/profile/luffy.07">♕</b></a></h3>
 <br>
 
-<pre color="E07EF0">
+<pre color="D31336">
    🎃  A geek.
    🕹   In pursuit to become a game developer.
    ✒️  I’m currently working on my C++ skills.
