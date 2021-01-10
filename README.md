@@ -39,7 +39,7 @@
    🎃  A geek.
    🕹   In pursuit to become a game developer.
    ✒️  I’m currently working on my C++ skills.
-   <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" align="right" width="120px" alt="square"></a>
+   <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" align="right" width="100px" alt="square"></a>
    🌱  I love learning new things everyday.
    🌼  I’m looking to collaborate on C++ projects.
    
