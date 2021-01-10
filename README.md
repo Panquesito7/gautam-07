@@ -90,8 +90,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <br>
 
-<h3 align="center">Wanna get together and talk geeky stuff</h3>
-<li align="center"><a href="gomzekh@gmail.com">Mail Me</a></li>
+<h3 align="center">Wanna get together and talk geeky stuff 😜</h3>
+<li align="center"><a href="mailto:gomzekh@gmail.com">💌 Mail Me</a></li>
 
 
 
