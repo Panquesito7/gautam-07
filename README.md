@@ -86,7 +86,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <br><br>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=gautam-07&&show_icons=true&title_color=eb9762&icon_color=d8b199&text_color=def4e4&bg_color=000000" align="right" width="400px">
+<img src = "https://github-readme-stats.vercel.app/api?username=gautam-07&&show_icons=true&title_color=fa5f1a&icon_color=01579b&text_color=252525&bg_color=ffffff" align="right" width="400px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-07&layout=compact&count_private=true&show_icons=True" align="left">
 
 
