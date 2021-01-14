@@ -15,7 +15,7 @@
 
 <br><br>
  
- <h1 align="center"> <a href="https://www.quora.com/What-does-%E2%80%9CHola-amigos%E2%80%9D-mean-1"> &hfr; &ofr; &lfr; &afr; &nbsp; &afr; &mfr; &ifr; &gfr; &ofr; &sfr;</a></h1>
+ <h1 align="center"> <a href="https://www.quora.com/What-does-%E2%80%9CHola-amigos%E2%80%9D-mean-1"> &hfr; &ofr; &lfr; &afr; &nbsp;&nbsp; &afr; &mfr; &ifr; &gfr; &ofr; &sfr;</a></h1>
 
 <a href="https://discord.gg/PZQngqcUz8">
 <img align="right" alt="Gautam Khatter's discord" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -38,13 +38,13 @@
 
 <pre>
    🎃  A geek.
-   🕹   In pursuit to become a game developer.
+   🕹  In pursuit to become a game developer.
    ✒️  I’m currently working on my C++ skills.
    <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" align="right" width="100px" alt="square"></a>
    🌱  I love learning new things everyday.
    🌼  I’m looking to collaborate on C++ projects.
    
-   👨‍🍳  My hobby is Cooking.
+   👨‍🍳 My hobby is Cooking.
    😅  Fun fact: Made this account in 2018. At that time I didn't even knew what GitHub was.
 </pre>
 
