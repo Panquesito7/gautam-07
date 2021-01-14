@@ -44,7 +44,7 @@
    🌱  I love learning new things everyday.
    🌼  I’m looking to collaborate on C++ projects.
    
-   👨‍🍳 My hobby is Cooking.
+   👨‍🍳  My hobby is Cooking.
    😅  Fun fact: Made this account in 2018. At that time I didn't even knew what GitHub was.
 </pre>
 
