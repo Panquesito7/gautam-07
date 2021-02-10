@@ -1,10 +1,11 @@
 
 
 ### 🔸 I reached here because of my mentor <a href="https://www.mysirg.com/"><I>Mr. Saurabh Shukla</I>
-<a href="https://www.youtube.com/user/saurabhexponent1">
-<img align="right" alt="MySirg" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+
 <a href="https://twitter.com/sshukla_manit">
 <img align="right" alt="MySirg" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.youtube.com/user/saurabhexponent1">
+<img align="right" alt="MySirg" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 <a href="https://www.facebook.com/mysirg/">
 <img align="right" alt="MySirg" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
@@ -19,10 +20,10 @@
 
 <a href="https://discord.gg/PZQngqcUz8">
 <img align="right" alt="Gautam Khatter's discord" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-<a href="https://www.youtube.com/channel/UCY9Rc7oBWZZXExtgJcsQluA">
-<img align="right" alt="Gautam Khatter's youtube" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 <a href="https://www.linkedin.com/in/gautamkhatter-7">
 <img align="right" alt="Gautam Khatter's LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.youtube.com/channel/UCY9Rc7oBWZZXExtgJcsQluA">
+<img align="right" alt="Gautam Khatter's youtube" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 <a href="https://twitter.com/gautamkhatter_7">
 <img align="right" alt="Gautam Khatter | Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 <a href="https://www.facebook.com/khattergautam7">
