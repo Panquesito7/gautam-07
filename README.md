@@ -72,7 +72,7 @@
 ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white&color=E34F26)
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white&color=1572B6)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000&color=F7DF1E)
-![Python Badge](https://img.shields.io/badge/-Python-F7DF1E?style=flat-square&logo=Python&logoColor=000&color=FF9800)
+![Python Badge](https://img.shields.io/badge/-Python-F7DF1E?style=flat-square&logo=Python&logoColor=000&color=F7DF1E)
 ![SQL Badge](https://img.shields.io/badge/-SQL-609540?style=flat-square&logo=elastic%20stack&logoColor=white&color=609540)
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&color=4479A1)
 ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&color=47A248)
@@ -87,8 +87,8 @@
 
 <br><br>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=gautam-07&&show_icons=true&title_color=e21c34&icon_color=e21c34&text_color=eef3d2&bg_color=000000" align="right" width="430px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-07&layout=compact&count_private=true&show_icons=True&title_color=e21c34&text_color=eef3d2&bg_color=000000" align="left">
+<img src = "https://github-readme-stats.vercel.app/api?username=gautam-07&&show_icons=true&title_color=e21c34&icon_color=e21c34&text_color=ffffff&bg_color=000000" align="right" width="430px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-07&layout=compact&count_private=true&show_icons=True&title_color=e21c34&text_color=ffffff&bg_color=000000" align="left">
 
 
 
