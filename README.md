@@ -68,11 +68,11 @@
 <br>
 
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&color=00599C)
+![Java Badge](https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=Java&logoColor=000&color=F7DF1E)
 ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white&color=E34F26)
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white&color=1572B6)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000&color=F7DF1E)
-![Python Badge](https://img.shields.io/badge/-Python-F7DF1E?style=flat-square&logo=Python&logoColor=000&color=F7DF1E)
-![Java Badge](https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=Java&logoColor=000&color=F7DF1E)
+![Python Badge](https://img.shields.io/badge/-Python-F7DF1E?style=flat-square&logo=Python&logoColor=000&color=FF9800)
 ![SQL Badge](https://img.shields.io/badge/-SQL-609540?style=flat-square&logo=elastic%20stack&logoColor=white&color=609540)
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&color=4479A1)
 ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&color=47A248)
