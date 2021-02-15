@@ -73,17 +73,19 @@
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white&color=1572B6)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000&color=F7DF1E)
 ![Python Badge](https://img.shields.io/badge/-Python-F7DF1E?style=flat-square&logo=Python&logoColor=000&color=F7DF1E)
-![SQL Badge](https://img.shields.io/badge/-SQL-609540?style=flat-square&logo=elastic%20stack&logoColor=white&color=609540)
+![SQL Badge](https://img.shields.io/badge/-SQL-609540?style=flat-square&logo=elastic%20stack&logoColor=white&color=4479A1)
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&color=4479A1)
 ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&color=47A248)
 ![git Badge](https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white&color=F05032)
 ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&color=181717)
 ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&color=2496ED)
+![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-181717?style=flat-square&logo=Kubernetes&logoColor=white&color=181717)
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=000&color=FCC624)
-![code Badge](https://img.shields.io/badge/-VsCode-FF9800?style=flat-square&logo=vscode%20text&logoColor=white&color=FF9800)
+![Visual Studio Code Badge](https://img.shields.io/badge/-VSCode-FF9800?style=flat-square&logo=VisualStudioCode%20text&logoColor=white&color=FF9800)
+![Visual Studio Badge](https://img.shields.io/badge/-VisualStudio-FCC624?style=flat-square&logo=VisualStudio&logoColor=000&color=FCC624)
 ![Computer Science Badge](https://img.shields.io/badge/-Computer%20Science-7b18a2?style=flat-square&logo=smartthings&logoColor=white&color=7b18a2)
 ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-fbc157?style=flat-square&logo=webpack&logoColor=000&color=fbc157)
-
+![Mathematics Badge](https://img.shields.io/badge/-Mathematics-f73e3e?style=flat-square&logo=mathworks&logoColor=white&color=f73e3e)
 
 <br><br>
 
