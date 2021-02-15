@@ -32,12 +32,12 @@
 </a>
 
 
-<h3><I><b>I am Gautam Khatter</I> &nbsp; <a href="https://codeforces.com/profile/luffy.07">♕</b></a></h3>
+<h3><I><b>I am Gautam Khatter</I> &nbsp; <a href="https://codeforces.com/profile/luffy.07">👑</b></a></h3>
 <br>
 
 <pre>
    🎃  A geek.
-   🕹  In pursuit to become a game developer.
+   🕹   In pursuit to become a game developer.
    ✒️  I’m currently working on my C++ skills.
    <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" align="right" width="100px" alt="square"></a>
    🌱  I love learning new things everyday.
@@ -51,15 +51,15 @@
 <br>
 
 <pre>
- 🔸 <i>“ Imagination is more important than knowledge ”</i>                            - <b>Albert Einstien</b>
+ 🔸 <i>“ Imagination is more important than knowledge ”</i>                                 - <b>Albert Einstien</b>
  
- 🔸 <i>“ The way to get started is quit talking and begin doing ”</i>                  - <b>Walt Disney</b>
+ 🔸 <i>“ If you want to shine like a sun then first burn like a sun  ”</i>                  - <b>A.P.J Abdul Kalam</b>
 
- 🔸 <i>“ Your time is limited, so don’t waste it living someone else’s life. ” </i>    - <b>Steve Jobs</b>
+ 🔸 <i>“ Your time is limited, so don’t waste it living someone else’s life. ” </i>         - <b>Steve Jobs</b>
  
- 🔸 <i>“ Tell me and I forget. Teach me and I remember. Involve me and I learn ” </i>  - <b>Benjamin Franklin</b>
+ 🔸 <i>“ Tell me and I forget. Teach me and I remember. Involve me and I learn ” </i>       - <b>Benjamin Franklin</b>
  
- 🔸 <i>“ It is during our darkest moments that we must focus to see the light. ” </i>  - <b>Aristotle</b>
+ 🔸 <i>“ Faith is the bird that feels the light when the dawn is still dark ” </i>          - <b>Rabindranath Tagore</b>
 </pre>
 
 <br>
