@@ -1,6 +1,6 @@
 
 
-### 🔸 I reached here because of my mentor <a href="https://www.mysirg.com/"><I>Mr. Saurabh Shukla</I>
+### 🔸 I reached here because of my mentor <a href="https://www.mysirg.com/">Mr. Saurabh Shukla
 
 <a href="https://twitter.com/sshukla_manit">
 <img align="right" alt="MySirg" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -32,7 +32,7 @@
 </a>
 
 
-<h3><I><b>I am Gautam Khatter</I> &nbsp; <a href="https://codeforces.com/profile/luffy.07">👑</b></a></h3>
+<h3><b>I am Gautam Khatter</b> &nbsp; <a href="https://codeforces.com/profile/luffy.07">👑</b></a></h3>
 <br>
 
 <pre>
