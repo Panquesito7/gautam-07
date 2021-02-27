@@ -1,16 +1,17 @@
 
 
-<h3 align="center">I reached here because of my mentor Mr. Saurabh Shukla  <a href="https://www.mysirg.com/">👨🏼‍🏫</h3>
+<h3 align="center">I reached here because of my mentor Mr. Saurabh Shukla  <a href="https://www.mysirg.com/">👨🏼‍🏫
 
 <a href="https://twitter.com/sshukla_manit">
-<img align="right" alt="MySirg" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<img align="right" alt="MySirg" width="15px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 <a href="https://www.youtube.com/user/saurabhexponent1">
-<img align="right" alt="MySirg" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+<img align="right" alt="MySirg" width="15px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 <a href="https://www.facebook.com/mysirg/">
-<img align="right" alt="MySirg" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+<img align="right" alt="MySirg" width="15px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
+</h3>
  
-<code>
+<code align="center">
  <i>“ It is the supreme art of the teacher to awaken joy in creative expression and knowledge ”</i> - <b>Albert Einstein</b>
 </code>
 
