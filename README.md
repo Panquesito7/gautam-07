@@ -1,6 +1,6 @@
 
 
-<h3 align="center">I reached here because of my mentor <a href="https://www.mysirg.com/">Mr. Saurabh Shukla 👨🏼‍🏫</h3>
+<h3 align="center">I reached here because of my mentor Mr. Saurabh Shukla  <a href="https://www.mysirg.com/">👨🏼‍🏫</h3>
 
 <a href="https://twitter.com/sshukla_manit">
 <img align="right" alt="MySirg" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
