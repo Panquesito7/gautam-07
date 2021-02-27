@@ -68,6 +68,7 @@
 <br>
 
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&color=00599C)
+![Rust Badge](https://img.shields.io/badge/-Rust-00599C?style=flat-square&logo=Rust&logoColor=white&color=652410)
 ![Java Badge](https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=Java&logoColor=000&color=F7DF1E)
 ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white&color=E34F26)
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white&color=1572B6)
