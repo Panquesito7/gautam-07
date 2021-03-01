@@ -1,23 +1,18 @@
 
 
 <h3 align="center">I reached here because of my mentor Mr. Saurabh Shukla  <a href="https://www.mysirg.com/">👨🏼‍🏫
-
-
-</h3>
  
-<code align="center">
- <i>“ It is the supreme art of the teacher to awaken joy in creative expression and knowledge ”</i> - <b>Albert Einstein</b>
-</code>
-
-<a href="https://twitter.com/sshukla_manit">
+ <a href="https://twitter.com/sshukla_manit">
 <img align="right" alt="MySirg" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 <a href="https://www.youtube.com/user/saurabhexponent1">
 <img align="right" alt="MySirg" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 <a href="https://www.facebook.com/mysirg/">
 <img align="right" alt="MySirg" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-
-<br><br><br>
+ 
+ </h3>
+ 
+<br><br>
  
  <h1 align="center"> &hfr; &ofr; &lfr; &afr; &nbsp;&nbsp; &afr; &mfr; &ifr; &gfr; &ofr; &sfr;</a></h1>
 
@@ -60,8 +55,6 @@
  
  🔸 <i>“ Faith is the bird that feels the light when the dawn is still dark ” </i>          - <b>Rabindranath Tagore</b>
 </pre>
-
-<br>
 
 <h3 align="center"> Languages and tools   &nbsp;  🛠 </h3>
 <br>
