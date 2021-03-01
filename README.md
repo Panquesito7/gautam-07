@@ -2,18 +2,20 @@
 
 <h3 align="center">I reached here because of my mentor Mr. Saurabh Shukla  <a href="https://www.mysirg.com/">👨🏼‍🏫
 
-<a href="https://twitter.com/sshukla_manit">
-<img align="right" alt="MySirg" width="15px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-<a href="https://www.youtube.com/user/saurabhexponent1">
-<img align="right" alt="MySirg" width="15px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-<a href="https://www.facebook.com/mysirg/">
-<img align="right" alt="MySirg" width="15px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
+
 </h3>
  
 <code align="center">
  <i>“ It is the supreme art of the teacher to awaken joy in creative expression and knowledge ”</i> - <b>Albert Einstein</b>
 </code>
+
+<a href="https://twitter.com/sshukla_manit">
+<img align="right" alt="MySirg" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.youtube.com/user/saurabhexponent1">
+<img align="right" alt="MySirg" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+<a href="https://www.facebook.com/mysirg/">
+<img align="right" alt="MySirg" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
 
 <br><br><br>
  
@@ -33,11 +35,11 @@
 </a>
 
 
-<h3><b>I am Gautam Khatter</b> &nbsp; <a href="https://codeforces.com/profile/luffy.07">👨🏼‍💻</b></a></h3>
+<h3><b>I am Gautam Khatter</b></h3>
 <br>
 
 <pre>
-   🎃  A geek.
+   <a href="https://codeforces.com/profile/luffy.07">🎃</a>  A geek.
    🕹   In pursuit to become a game developer.
    ✒️  I’m currently working on my C++ skills.
    <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" align="right" width="100px" alt="square"></a>
@@ -55,10 +57,6 @@
  🔸 <i>“ Imagination is more important than knowledge ”</i>                                 - <b>Albert Einstien</b>
  
  🔸 <i>“ If you want to shine like a sun then first burn like a sun  ”</i>                  - <b>A.P.J Abdul Kalam</b>
-
- 🔸 <i>“ Your time is limited, so don’t waste it living someone else’s life. ” </i>         - <b>Steve Jobs</b>
- 
- 🔸 <i>“ Tell me and I forget. Teach me and I remember. Involve me and I learn ” </i>       - <b>Benjamin Franklin</b>
  
  🔸 <i>“ Faith is the bird that feels the light when the dawn is still dark ” </i>          - <b>Rabindranath Tagore</b>
 </pre>
