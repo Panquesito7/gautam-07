@@ -43,12 +43,9 @@
    
    👨‍🍳  My hobby is Cooking.
    😅  Fun fact: Made this account in 2018. At that time I didn't even knew what GitHub was.
-</pre>
 
 <h3 align="center"> My Favourite Quotes  ❛ ❜</h3>
-<br>
 
-<pre>
  🔸 <i>“ Imagination is more important than knowledge ”</i>                                 - <b>Albert Einstien</b>
  
  🔸 <i>“ If you want to shine like a sun then first burn like a sun  ”</i>                  - <b>A.P.J Abdul Kalam</b>
