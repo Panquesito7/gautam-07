@@ -79,10 +79,6 @@
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=000&color=FCC624)
 ![macOS Badge](https://img.shields.io/badge/-macOS-000?style=flat-square&logo=Apple&logoColor=000&color=C6CDFF)
 
-<br><br>
-
-<img src = "https://github-readme-stats.vercel.app/api?username=gautam-07&&show_icons=true&title_color=e21c34&icon_color=e21c34&text_color=ffffff&bg_color=000000" align="right" width="430px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-07&layout=compact&count_private=true&show_icons=True&title_color=e21c34&text_color=ffffff&bg_color=000000" align="left">
 
 
 
