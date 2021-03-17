@@ -54,15 +54,15 @@
  
 <h3 align="center"> Languages and tools  🛠 </h3>
  
- 🔨 HTML                   🔨 Python               🔨 GitHub                 🔨 Computer Science
+ 🔨 HTML                       🔨 Python                    🔨 GitHub                      🔨 Computer Science
  
- 🔨 CSS                    🔨 SQL                  🔨 Docker                 🔨 Software Development
+ 🔨 CSS                        🔨 SQL                       🔨 Docker                      🔨 Software Development
  
- 🔨 Javascript             🔨 MySql                🔨 VsCode                 🔨 Mathematics
+ 🔨 Javascript                 🔨 MySql                     🔨 VsCode                      🔨 Mathematics
  
- 🔨 C++                    🔨 MongoDB              🔨 Visual Studio          🔨 Linux
+ 🔨 C++                        🔨 MongoDB                   🔨 Visual Studio               🔨 Linux
  
- 🔨 Java                   🔨 Git                  🔨 PyCharm                🔨 MacOS
+ 🔨 Java                       🔨 Git                       🔨 PyCharm                     🔨 MacOS
  
 </pre>
 
