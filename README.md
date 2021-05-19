@@ -16,7 +16,7 @@
  
  <h1 align="center"> &hfr; &ofr; &lfr; &afr; &nbsp;&nbsp; &afr; &mfr; &ifr; &gfr; &ofr; &sfr;</a></h1>
 
-<a href="https://discord.gg/PZQngqcUz8">
+<a href="https://discord.gg/3FUEy9tSv8">
 <img align="right" alt="Gautam Khatter's discord" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 <a href="https://www.linkedin.com/in/gautamkhatter7">
 <img align="right" alt="Gautam Khatter's LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -34,6 +34,7 @@
 <br>
 
 <pre>
+<h2 align="center"> About Me</h2>
    <a href="https://codeforces.com/profile/luffy.07">🎃</a>  A geek.
    🕹   In pursuit to become a game developer.
    ✒️  I’m currently working on my C++ skills.
@@ -43,26 +44,12 @@
    
    👨‍🍳  My hobby is Cooking.
    😅  Fun fact: Made this account in 2018. At that time I didn't even knew what GitHub was.
-<hr>
-<h3 align="center"> My Favourite Quotes  ❛ ❜</h3>
-
+ <h2 align="center"> My Favourite Quotes  ❛ ❜</h2>
  🔸 <i>“ Imagination is more important than knowledge ”</i>                                 - <b>Albert Einstien</b>
  
  🔸 <i>“ If you want to shine like a sun then first burn like a sun  ”</i>                  - <b>A.P.J Abdul Kalam</b>
  
  🔸 <i>“ Faith is the bird that feels the light when the dawn is still dark ” </i>          - <b>Rabindranath Tagore</b>
-<hr>
-<h3 align="center"> Languages and tools  🛠 </h3>
- 
- 🔨 HTML                       🔨 Python                    🔨 GitHub                      🔨 Computer Science
- 
- 🔨 CSS                        🔨 SQL                       🔨 Docker                      🔨 Software Development
- 
- 🔨 Javascript                 🔨 MySql                     🔨 VsCode                      🔨 Mathematics
- 
- 🔨 C++                        🔨 MongoDB                   🔨 Visual Studio               🔨 Linux
- 
- 🔨 Java                       🔨 Git                       🔨 PyCharm                     🔨 MacOS
  
 </pre>
 
