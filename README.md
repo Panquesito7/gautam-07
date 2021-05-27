@@ -24,7 +24,7 @@
 <img align="right" alt="Gautam Khatter's youtube" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 <a href="https://twitter.com/GautamKhatter7">
 <img align="right" alt="Gautam Khatter | Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-<a href="https://www.facebook.com/khattergautam7">
+<a href="https://www.facebook.com/gautamkhatter07">
 <img align="right" alt="Gautam Khatter's Facebook" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 
 </a>
