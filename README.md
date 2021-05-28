@@ -19,16 +19,17 @@
  
  <h3>About Me</h3> 
  
+  <br>
+ 
  <p>My name is Gautam Khatter. I am <b><i>An Engineer</i></b>. When I was starting out I was really scared of programming. My first language that I tried to learn was C++ but I struggled for a year to understand it but failed miserabely. Thankfully my mentor Saurabh Sir came to my rescue and opened the world of software engineering for me. So that's a little background story of me.</p>
   
- <br>
- 
-  <h4>What I am upto these days</h4>
- 
-  - I am learning Fullstack Web Development.
-  - I am looking to collaborate on web apps.
-  - I am also learning Data Structures and Algorithms.
-  - In future I am looking forward to contribute to the open source community.
+<h4>What I am upto these days</h4>
+ <pre>
+  📌 I am learning Fullstack Web Development.
+  📌 I am looking to collaborate on web apps.
+  📌 I am also learning Data Structures and Algorithms.
+  📌 In future I am looking forward to contribute to the open source community.
+ </pre>
  
  <hr>
  
