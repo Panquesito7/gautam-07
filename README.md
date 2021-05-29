@@ -58,7 +58,6 @@
  [![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautam-07&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-07&layout=compact&theme=dracula&width=600px)](https://github.com/anuraghazra/github-readme-stats)
  
-[![Gautam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gautam07&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
