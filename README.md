@@ -1,6 +1,6 @@
 
 
-> <h3 align="center">I reached here because of my mentor Mr. Saurabh Shukla  <a href="https://www.mysirg.com/">👨🏼‍🏫 </h3>
+> <h3 align="center">I reached here because of my mentor Mr. Saurabh Shukla 👨🏼‍🏫 </h3>
  <br><br>
  
 <!--  <h1 align="center"> &hfr; &ofr; &lfr; &afr; &nbsp;&nbsp; &afr; &mfr; &ifr; &gfr; &ofr; &sfr;</a></h1> -->
@@ -18,19 +18,23 @@
 
 </a>
  
- <h3>Welcome Developers 👨‍💻 </h3>
+ <h3>Welcome 👋</h3>
  
   <br>
  
- <p>Hello</p>
-  
-<h4>What I am upto these days</h4>
+ <p>Hello Developers. I know rather reading someone's bio we prefer to write code 😂</p>
+ </p>I am an engineer who is passionate about solving problems and taking challenging tasks. I enjoy working with MERN stack but open to any technology to learn and adapt to my working environment. I love meeting fellow developers and dicuss new possibilities in software development. Feel free to connect with me on any social platform listed above ☝️</p>
+ <br>
+<h4>What I am upto these days 😬</h4>
  
 <pre>
- 📌 I am learning Fullstack Web Development.
- 📌 I am looking to collaborate on web apps.
- 📌 I am also learning Data Structures and Algorithms.
- 📌 In future I am looking forward to contribute to the open source community.
+☛ Right now I am learning React.
+
+☛ I am currently working on Campground based web app.
+
+☛ Trying hard to solve DSA problems.
+
+☛ I am looking forward to contribute to the open source community.
 </pre>
  
  <hr>
