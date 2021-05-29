@@ -1,8 +1,9 @@
 
 
 > <h3 align="center">I reached here because of my mentor Mr. Saurabh Shukla  <a href="https://www.mysirg.com/">👨🏼‍🏫 </h3>
+ <br><br>
  
- <h1 align="center"> &hfr; &ofr; &lfr; &afr; &nbsp;&nbsp; &afr; &mfr; &ifr; &gfr; &ofr; &sfr;</a></h1>
+<!--  <h1 align="center"> &hfr; &ofr; &lfr; &afr; &nbsp;&nbsp; &afr; &mfr; &ifr; &gfr; &ofr; &sfr;</a></h1> -->
 
 <a href="https://discord.gg/3FUEy9tSv8">
 <img align="right" alt="Gautam Khatter's discord" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -17,23 +18,25 @@
 
 </a>
  
- <h3>About Me</h3> 
+ <h3>Welcome Developers 👨‍💻 </h3>
  
   <br>
  
- <p>My name is Gautam Khatter. I am <b><i>An Engineer</i></b>. When I was starting out I was really scared of programming. My first language that I tried to learn was C++ but I struggled for a year to understand it but failed miserabely. Thankfully my mentor Saurabh Sir came to my rescue and opened the world of software engineering for me. So that's a little background story of me.</p>
+ <p>Hello</p>
   
 <h4>What I am upto these days</h4>
- <pre>
-  📌 I am learning Fullstack Web Development.
-  📌 I am looking to collaborate on web apps.
-  📌 I am also learning Data Structures and Algorithms.
-  📌 In future I am looking forward to contribute to the open source community.
- </pre>
+ 
+<pre>
+ 📌 I am learning Fullstack Web Development.
+ 📌 I am looking to collaborate on web apps.
+ 📌 I am also learning Data Structures and Algorithms.
+ 📌 In future I am looking forward to contribute to the open source community.
+</pre>
  
  <hr>
  
  <h3>My Tech Stack </h3>
+
  
  |Programming Languages|Frameworks & Libraries| Databases|Tools & IDE's|
  |----|----|----|----|
@@ -47,7 +50,7 @@
  
  <br>
  
- [![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautam-07&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ [![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautam-07&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
  
  
