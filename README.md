@@ -23,24 +23,25 @@
   <br>
  
  <p>Hello Developers. I know rather reading someone's bio we prefer to write code 😂</p>
- </p>I am an engineer who is passionate about solving problems and taking challenging tasks. I enjoy working with MERN stack but open to any technology to learn and adapt to my working environment. I love meeting fellow developers and dicuss new possibilities in software development. Feel free to connect with me on any social platform listed above ☝️</p>
+ </p>I am an engineer who is passionate about solving problems and taking challenging tasks. I enjoy working with MERN stack but open to any technology to learn and adapt to my working environment. I love meeting fellow developers and discuss new possibilities in software development. Feel free to connect with me on any social platform listed above ☝️</p>
  <br>
 <h4>What I am upto these days 😬</h4>
  
 <pre>
-☛ Right now I am learning React.
+☛   Right now I am learning React.
 
-☛ I am currently working on Campground based web app.
+☛   I am currently working on Campground based web app.
 
-☛ Trying hard to solve DSA problems.
+☛   Trying hard to solve DSA problems.
 
-☛ I am looking forward to contribute to the open source community.
+☛   I am looking forward to contribute to the open source community.
 </pre>
  
  <hr>
  
- <h3>My Tech Stack </h3>
+ <h3>My Tech Stack  🦾</h3>
 
+ <br>
  
  |Programming Languages|Frameworks & Libraries| Databases|Tools & IDE's|
  |----|----|----|----|
@@ -55,6 +56,11 @@
  <br>
  
  [![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautam-07&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-07&layout=compact&theme=dracula&width=600px)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![Gautam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gautam07&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
  
  
