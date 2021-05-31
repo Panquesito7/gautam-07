@@ -21,9 +21,9 @@
  
 > Hello Developers. I know rather reading someone's bio we enjoy writing code 😂
   <br> 
- </p>𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙶𝚊𝚞𝚝𝚊𝚖 𝙺𝚑𝚊𝚝𝚝𝚎𝚛 𝚊𝚗𝚍 𝙸 𝚊𝚖 𝚊𝚗 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚠𝚑𝚘 𝚒𝚜 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜 𝚊𝚗𝚍 𝚝𝚊𝚔𝚒𝚗𝚐 𝚘𝚗 𝚌𝚑𝚊𝚕𝚕𝚎𝚗𝚐𝚒𝚗𝚐 𝚝𝚊𝚜𝚔𝚜. 𝙸 𝚎𝚗𝚓𝚘𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚝𝚑𝚎 𝙼𝙴𝚁𝙽 𝚜𝚝𝚊𝚌𝚔 𝚋𝚞𝚝 𝚘𝚙𝚎𝚗 𝚝𝚘 𝚊𝚗𝚢 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚝𝚘 𝚕𝚎𝚊𝚛𝚗 𝚊𝚗𝚍 𝚊𝚍𝚊𝚙𝚝 𝚝𝚘 𝚖𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚎𝚗𝚟𝚒𝚛𝚘𝚗𝚖𝚎𝚗𝚝. 𝙸 𝚕𝚘𝚟𝚎 𝚖𝚎𝚎𝚝𝚒𝚗𝚐 𝚏𝚎𝚕𝚕𝚘𝚠 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 𝚊𝚗𝚍 𝚍𝚒𝚜𝚌𝚞𝚜𝚜 𝚗𝚎𝚠 𝚙𝚘𝚜𝚜𝚒𝚋𝚒𝚕𝚒𝚝𝚒𝚎𝚜 𝚒𝚗 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝. 𝙸 𝚊𝚖 𝚖𝚘𝚜𝚝𝚕𝚢 𝚜𝚎𝚕𝚏-𝚝𝚊𝚞𝚐𝚑𝚝 𝚋𝚞𝚝 𝚌𝚘𝚞𝚕𝚍𝚗'𝚝 𝚎𝚟𝚎𝚗 𝚛𝚎𝚊𝚌𝚑 𝚑𝚎𝚛𝚎 𝚒𝚏 𝙸 𝚍𝚒𝚍𝚗'𝚝 𝚐𝚎𝚝 𝚑𝚎𝚕𝚙 𝚊𝚝 𝚝𝚑𝚎 𝚜𝚝𝚊𝚛𝚝 𝚏𝚛𝚘𝚖 𝚖𝚢 𝚖𝚎𝚗𝚝𝚘𝚛 <b>𝙼𝚛. 𝚂𝚊𝚞𝚛𝚊𝚋𝚑 𝚂𝚑𝚞𝚔𝚕𝚊</b>.</p>
- 
-  </p>𝙿𝚕𝚎𝚊𝚜𝚎 𝚏𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚌𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎 𝚘𝚗 𝚊𝚗𝚢 𝚜𝚘𝚌𝚒𝚊𝚕 𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖𝚜 𝚕𝚒𝚜𝚝𝚎𝚍 𝚊𝚋𝚘𝚟𝚎. 𝙸 𝚠𝚘𝚞𝚕𝚍 𝚋𝚎 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚊𝚗𝚜𝚠𝚎𝚛 𝚊𝚗𝚢 𝚚𝚞𝚎𝚜𝚝𝚒𝚘𝚗𝚜. 𝙸𝚏 𝙸 𝚍𝚒𝚍𝚗'𝚝 𝚔𝚗𝚘𝚠 𝚝𝚑𝚎 𝚊𝚗𝚜𝚠𝚎𝚛 𝚝𝚑𝚎𝚗 𝚠𝚎 𝚠𝚒𝚕𝚕 𝚏𝚒𝚗𝚍 𝚝𝚑𝚎 𝚊𝚗𝚜𝚠𝚎𝚛 𝚝𝚘 𝚝𝚑𝚎 𝚙𝚛𝚘𝚋𝚕𝚎𝚖 𝚝𝚘𝚐𝚎𝚝𝚑𝚎𝚛. </p>
+ </p>My name is Gautam Khatter and I am an engineer from India who is passionate about solving problems and taking on challenging tasks. I usually work with MERN stack but I am eager to learn new tools and technologies and increase my domain knowledge. I love meeting fellow developers and engineers to discuss various possibilities to solve a particular problem. I am mostly self-taught but couldn't have reached here if I didn't got mentorship from <b>Mr. Saurabh Shukla</b>.</p>
+ <br>
+  </p>Please feel free to connect with me on any social platforms listed above. I would be happy to answer any question in the best possible way. If I didn't know the answer to the problem then we will search for it together.</p>
  
   <br>
  
@@ -34,7 +34,9 @@
   
  [![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautam-07&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  </details>
- 
+
+  <br>
+
  <details>
   <summary>My most used languages</summary>
   
