@@ -1,6 +1,7 @@
 
  <h2>Welcome 👋</h2>
-
+ <br>
+ 
 <a href="https://discord.gg/3FUEy9tSv8">
 <img align="left" alt="Gautam Khatter's discord" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 <a href="https://www.linkedin.com/in/gautamkhatter7">
@@ -16,7 +17,7 @@
 
 
  <br>
- <br>
+ <br> <br> 
  
 > Hello Developers. I know rather reading someone's bio we enjoy writing code 😂
  </p>My name is Gautam Khatter and I am an engineer who is passionate about solving problems and taking challenging tasks. I enjoy working with MERN stack but open to any technology to learn and adapt to my working environment. I love meeting fellow developers and discuss new possibilities in software development. I am mostly self taught but couldn't even reached here if I didn't got help in the start and that help came from my mentor <b>Mr. Saurabh Shukla</b>.</p>
