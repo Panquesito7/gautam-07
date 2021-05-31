@@ -1,29 +1,29 @@
 
 
-<h4 align="center">I reached here because of my mentor Mr. Saurabh Shukla</h4>
- <br><br>
- 
-<!--  <h1 align="center"> &hfr; &ofr; &lfr; &afr; &nbsp;&nbsp; &afr; &mfr; &ifr; &gfr; &ofr; &sfr;</a></h1> -->
 
-<a href="https://discord.gg/3FUEy9tSv8">
-<img align="right" alt="Gautam Khatter's discord" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-<a href="https://www.linkedin.com/in/gautamkhatter7">
-<img align="right" alt="Gautam Khatter's LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-<a href="https://www.youtube.com/channel/UCY9Rc7oBWZZXExtgJcsQluA">
-<img align="right" alt="Gautam Khatter's youtube" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-<a href="https://twitter.com/GautamKhatter7">
-<img align="right" alt="Gautam Khatter | Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-<a href="https://www.facebook.com/gautamkhatter07">
-<img align="right" alt="Gautam Khatter's Facebook" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-
-</a>
  
- <h3>Welcome 👋</h3>
+ <h2>Welcome 👋</h2>
  
   <br>
  
- > <p>Hello Developers. I know rather reading someone's bio we prefer to write code 😂</p>
- </p>I am an engineer who is passionate about solving problems and taking challenging tasks. I enjoy working with MERN stack but open to any technology to learn and adapt to my working environment. I love meeting fellow developers and discuss new possibilities in software development. Feel free to connect with me on any social platform listed above ☝️</p>
+ > Hello Developers. I know rather reading someone's bio we prefer to write code 😂
+<br>
+
+<a href="https://discord.gg/3FUEy9tSv8">
+<img align="left" alt="Gautam Khatter's discord" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://www.linkedin.com/in/gautamkhatter7">
+<img align="left" alt="Gautam Khatter's LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.youtube.com/channel/UCY9Rc7oBWZZXExtgJcsQluA">
+<img align="left" alt="Gautam Khatter's youtube" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+<a href="https://twitter.com/GautamKhatter7">
+<img align="left" alt="Gautam Khatter | Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.facebook.com/gautamkhatter07">
+<img align="left" alt="Gautam Khatter's Facebook" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+
+</a>
+
+ <br>
+ </p>My name is Gautam Khatter and I am an engineer who is passionate about solving problems and taking challenging tasks. I enjoy working with MERN stack but open to any technology to learn and adapt to my working environment. I love meeting fellow developers and discuss new possibilities in software development. I am mostly self taught but couldn't even reached here if I didn't got help in the start and that help came from my mentor <b>Mr. Saurabh Shukla</b>.</p>
  
   <br>
  
