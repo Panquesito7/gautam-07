@@ -25,8 +25,8 @@
  <br>
   </p>Please feel free to connect with me on any social platforms listed above. I would be happy to answer any question in the best possible way. If I didn't know the answer to the problem then we will search for it together.</p>
  
-  <br>
- 
+  <br> <br>
+
   <details>
   <summary>My GitHub Stat's</summary>
   
