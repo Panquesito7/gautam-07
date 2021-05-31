@@ -24,6 +24,25 @@
  
  > <p>Hello Developers. I know rather reading someone's bio we prefer to write code 😂</p>
  </p>I am an engineer who is passionate about solving problems and taking challenging tasks. I enjoy working with MERN stack but open to any technology to learn and adapt to my working environment. I love meeting fellow developers and discuss new possibilities in software development. Feel free to connect with me on any social platform listed above ☝️</p>
+ 
+  <br>
+ 
+  <details>
+  <summary>My GitHub Stat's</summary>
+  
+  <br>
+  
+ [![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautam-07&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ </details>
+ 
+ <details>
+  <summary>My most used languages</summary>
+  
+  <br>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-07&layout=compact&theme=dracula&width=600px)](https://github.com/anuraghazra/github-readme-stats)
+ </details>
+ 
  <br>
 <h4>What I am upto these days 😬</h4>
  
@@ -36,6 +55,7 @@
 
 🔸   I am looking forward to contribute to the open source community.
 </pre>
+ 
  
  <hr>
  
@@ -50,13 +70,11 @@
 ![Java Badge](https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=Java&logoColor=white&color=3776AB)|![Jquery Badge](https://img.shields.io/badge/-Jquery-0769AD?style=flat-square&logo=Jquery&logoColor=white&color=0769AD)|![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white&color=336791)|![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&color=2496ED)|
 ![Python Badge](https://img.shields.io/badge/-Python-F7DF1E?style=flat-square&logo=Python&logoColor=000&color=F7DF1E)|![NodeJs Badge](https://img.shields.io/badge/-Node.js-7952B3?style=flat-square&logo=Node.js&logoColor=white&color=7952B3)|![Redis Badge](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white&color=DC382D)|![GitHub Actions Badge](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white&color=2088FF)|
  
+
  
- <hr>
+
  
- <br>
- 
- [![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautam-07&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-07&layout=compact&theme=dracula&width=600px)](https://github.com/anuraghazra/github-readme-stats)
+
  
 
 
