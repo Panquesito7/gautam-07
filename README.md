@@ -21,14 +21,15 @@
  
 > Hello Developers. I know rather reading someone's bio we enjoy writing code 😂
   <br> 
- </p>My name is Gautam Khatter and I am an engineer from India who is passionate about solving problems and taking on challenging tasks. I usually work with MERN stack but I am eager to learn new tools and technologies and increase my domain knowledge. I love meeting fellow developers and engineers to discuss various possibilities to solve a particular problem. I am mostly self-taught but couldn't have reached here if I didn't got mentorship from <b>Mr. Saurabh Shukla</b>.</p>
+ </p>My name is Gautam Khatter and I am an engineer from India who is passionate about solving problems and taking on challenging tasks. I usually work with MERN stack but I am always eager to learn new tools and technologies to increase my knowledge and expertise. I love meeting developers and engineers to discuss various possibilities to solve a particular problem. I am mostly self-taught but couldn't have reached here if I hadn't had help from my mentor <b>Mr. Saurabh Shukla</b>.</p>
  <br>
-  </p>Please feel free to connect with me on any social platforms listed above. I would be happy to answer any question in the best possible way. If I didn't know the answer to the problem then we will search for it together.</p>
+ <p>I am learning a lot from open source community and am amazed by the fact how knowledge sharing and collaboration is reaching a new milestone. I am looking forward to contribute to this wonderful community. So, if you are working on a project please feel free to reach out to me on any social media platforms listed above 👆.  DM's are open to all.</p>
+<br><b>Let's make this world a better place through the art of innovation and engineering.</b>
  
   <br> <br>
 
   <details>
-  <summary>My GitHub Stat's</summary>
+  <summary> 📊 GitHub Stat's</summary>
   
   <br>
   
@@ -38,7 +39,7 @@
   <br>
 
  <details>
-  <summary>My most used languages</summary>
+ <summary> 🧮 Most Used Languages</summary>
   
   <br>
   
