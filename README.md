@@ -59,10 +59,10 @@
 🔸   I am looking forward to contribute to the open source community.
 </pre>
  
- 
+ <br>
  <hr>
- 
- <h3>My Tech Stack  🦾</h3>
+ <br>
+ <h3>Tech Stack 🛠</h3>
 
  <br>
  
