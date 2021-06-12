@@ -6,6 +6,8 @@
 <img align="left" alt="Gautam Khatter's discord" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 <a href="https://www.linkedin.com/in/gautamkhatter7">
 <img align="left" alt="Gautam Khatter's LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href ="https://gautam-7.medium.com/">
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" width="20px" title="Medium" />
 <a href="https://www.youtube.com/channel/UCY9Rc7oBWZZXExtgJcsQluA">
 <img align="left" alt="Gautam Khatter's youtube" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 <a href="https://twitter.com/GautamKhatter7">
@@ -13,6 +15,7 @@
 <a href="https://www.facebook.com/gautamkhatter07">
 <img align="left" alt="Gautam Khatter's Facebook" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 
+ 
 </a>
 
 
