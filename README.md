@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/gautamkhatter7">
 <img align="left" alt="Gautam Khatter's LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" title="LinkedIn" />
 <a href ="https://gautam-7.medium.com/">
-<img align="left" alt="Gautam's Medium" width="20px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Medium" />
+<img align="left" alt="Gautam's Medium" width="23px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Medium" />
 <a href="https://www.youtube.com/channel/UCY9Rc7oBWZZXExtgJcsQluA">
 <img align="left" alt="Gautam Khatter's youtube" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" title="YouTube" />
 <a href="https://twitter.com/GautamKhatter7">
