@@ -24,12 +24,14 @@
  
 > Hello Developers. I know rather reading someone's bio we enjoy writing code 😂
   <br> 
- </p>My name is Gautam Khatter and I am an engineer from India who is passionate about solving problems and taking on challenging tasks. I usually work with MERN stack but I am always eager to learn new tools and technologies to increase my knowledge and expertise. I love meeting developers and engineers to discuss various possibilities to solve a particular problem. I am mostly self-taught but couldn't have reached here if I hadn't had help from my mentor <b>Mr. Saurabh Shukla</b>.</p>
+ </p>My name is <b><i>Gautam Khatter</i></b> and I am an engineer from <b><i>India</i></b> who is passionate about problem solving and taking on challenging tasks. I usually work with <b>MERN</b> stack but I am always eager to learn new tools and technologies to increase my knowledge and expertise. I love meeting developers and engineers to discuss various possibilities to solve a particular problem. I am mostly self-taught but couldn't have reached here if I hadn't had help from my mentor <b>Mr. Saurabh Shukla</b>.</p>
  <br>
  <p>I am learning a lot from open source community and am amazed by the fact how knowledge sharing and collaboration is reaching a new milestone. I am looking forward to contribute to this wonderful community. So, if you are working on a project please feel free to reach out to me on any social media platforms listed above 👆.  DM's are open to all.</p>
-<br><b>Let's make this world a better place through the art of innovation and engineering.</b>
+ <br>
  
-  <br> <br>
+ <pre><h4>🔹 Let's make this world a better place through the art of innovation and engineering.</h4></pre>
+ 
+  <br><br>
 
   <details>
   <summary> 📊 GitHub Stat's</summary>
@@ -49,7 +51,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-07&layout=compact&theme=dracula&width=600px)](https://github.com/anuraghazra/github-readme-stats)
  </details>
  
- <br>
+<br>
 <h4>What I am upto these days 😬</h4>
  
 <pre>
@@ -64,10 +66,10 @@
  
  <br>
  <hr>
- <br>
+
  <h3>Tech Stack 🛠</h3>
 
- <br>
+
  
  |Programming Languages|Frameworks & Libraries| Databases|Tools & IDE's|
  |----|----|----|----|
