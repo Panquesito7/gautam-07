@@ -1,5 +1,5 @@
 
- <h2>Welcome 👋</h2>
+<img src="/@drew.feig.png">
  <br>
  
 <a href="https://discord.gg/3FUEy9tSv8">
