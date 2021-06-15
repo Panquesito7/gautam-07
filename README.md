@@ -2,18 +2,19 @@
 <img src="/@drew.feig (1).png">
  <br>
  
-<a href="https://discord.gg/3FUEy9tSv8">
-<img align="left" alt="Gautam Khatter's discord" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" title="Discord" />
-<a href="https://www.linkedin.com/in/gautamkhatter7">
-<img align="left" alt="Gautam Khatter's LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" title="LinkedIn" />
-<a href ="https://gautam-7.medium.com/">
-<img align="left" alt="Gautam's Medium" width="23px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Medium" />
-<a href="https://www.youtube.com/channel/UCY9Rc7oBWZZXExtgJcsQluA">
-<img align="left" alt="Gautam Khatter's youtube" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" title="YouTube" />
-<a href="https://twitter.com/GautamKhatter7">
-<img align="left" alt="Gautam Khatter | Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" title="Twitter" />
+
 <a href="https://www.facebook.com/gautamkhatter07">
 <img align="left" alt="Gautam Khatter's Facebook" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" title="Facebook" />
+<a href="https://twitter.com/GautamKhatter7">
+<img align="left" alt="Gautam Khatter | Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" title="Twitter" />
+<a href="https://www.linkedin.com/in/gautamkhatter7">
+<img align="left" alt="Gautam Khatter's LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" title="LinkedIn" />
+<a href="https://www.youtube.com/channel/UCY9Rc7oBWZZXExtgJcsQluA">
+<img align="left" alt="Gautam Khatter's youtube" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" title="YouTube" />
+<a href ="https://gautam-7.medium.com/">
+<img align="left" alt="Gautam's Medium" width="23px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Medium" />
+<a href="https://in.pinterest.com/gautam_7/_saved/">
+<img align="left" alt="Gautam Khatter's pinterest" width="20px" src="/pinterest.svg" title="Pinterest" />
 
  
 </a>
@@ -24,7 +25,7 @@
  
 > Hello Developers. I know rather reading someone's bio we enjoy writing code 😂
   <br> 
- </p>I am an engineer from <b><i>India</i></b> who is passionate about problem solving and taking on challenging tasks. I usually work with <b>MERN</b> stack but I am always eager to learn new tools and technologies to increase my knowledge and expertise. I love meeting developers and engineers to discuss various possibilities to solve a particular problem. I am mostly self-taught but couldn't have reached here if I hadn't had help from my mentor <b>Mr. Saurabh Shukla</b>.</p>
+ </p>I am an engineer from <b>India</b> who is passionate about problem solving and taking on challenging tasks. I usually work with <b>MERN</b> stack but I am always eager to learn new tools and technologies to increase my knowledge and expertise. I love meeting developers and engineers to discuss various possibilities to solve a particular problem. I am mostly self-taught but couldn't have reached here if I hadn't had help from my mentor <b>Mr. Saurabh Shukla</b>.</p>
  <br>
  <p>I am learning a lot from open source community and am amazed by the fact how knowledge sharing and collaboration is reaching a new milestone. I am looking forward to contribute to this wonderful community. So, if you are working on a project please feel free to reach out to me on any social media platforms listed above 👆.  DM's are open to all.</p>
  <br>
@@ -34,7 +35,7 @@
   <br><br>
 
   <details>
-  <summary> 📊 GitHub Stat's</summary>
+  <summary> 📊 My GitHub Stat's</summary>
   
   <br>
   
@@ -64,9 +65,20 @@
 🔸   I am looking forward to contribute to the open source community.
 </pre>
  
+ <br>
+ 
+ #### Join our Discord communities:-
+
+👉 <a href="https://discord.gg/3FUEy9tSv8">
+<img align="right" alt="Gautam Khatter's discord" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" title="Discord" /> Dexter's Den</a> : For Developers
+ <br>
+👉 <a href="https://discord.gg/SAXxRbMvZ6">
+<img align="right" alt="Gautam Khatter's discord" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" title="Discord" />Dexter's Clan </a> : For Designers
+
+ 
 <br>
 
- <h3>Tech Stack 🛠</h3>
+ <h2>Tech Stack 🛠</h2>
 
 
  
