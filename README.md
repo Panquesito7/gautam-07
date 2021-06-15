@@ -65,17 +65,6 @@
 🔸   I am looking forward to contribute to the open source community.
 </pre>
  
- <br>
- 
- #### Join our Discord communities:-
-
-👉 <a href="https://discord.gg/3FUEy9tSv8">
-<img align="right" alt="Gautam Khatter's discord" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" title="Discord" /> Dexter's Den</a> : For Developers
- <br>
-👉 <a href="https://discord.gg/SAXxRbMvZ6">
-<img align="right" alt="Gautam Khatter's discord" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" title="Discord" />Dexter's Clan </a> : For Designers
-
- 
 <br>
 
  <h2>Tech Stack 🛠</h2>
