@@ -42,8 +42,6 @@
  
 <hr>
  
- <br>
- 
 <h3>Tech Stack 🛠</h3>
 
 
@@ -58,16 +56,18 @@
 
  
  <br>
+
 <h4>What I am upto these days 😬</h4>
+ 
+<pre>
+🔸   Right now I am learning React.
 
-🔸   Right now I am learning React.<br>
-🔸   I am currently working on Campground based web app.<br>
-🔸   Trying hard to solve DSA problems.<br>
+🔸   I am currently working on Campground based web app.
+
+🔸   Trying hard to solve DSA problems.
+
 🔸   I am looking forward to contribute to the open source community.
-
-
-<br>
-
+</pre>
 
    <br>
 
