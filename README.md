@@ -15,6 +15,7 @@
 <img align="left" alt="Gautam's Medium" width="23px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Medium" />
 <a href="https://in.pinterest.com/gautam_7/_saved/">
 <img align="left" alt="Gautam Khatter's pinterest" width="20px" src="/pinterest.svg" title="Pinterest" />
+<img alt="Gautam Khatter's Clubhouse" width="20px" src="/clubhouse.png_large" title="Clubhouse" />
 
  
 </a>
@@ -23,12 +24,18 @@
  
 
 > Hello Developers. I know rather reading someone's bio we enjoy writing code 😂
+
  
  <br>
 
  </p>I am an engineer from <b>India</b> who is passionate about problem solving and taking on challenging tasks. I usually work with <b>MERN</b> stack but I am always eager to learn new tools and technologies to increase my knowledge and expertise. I love meeting developers and engineers to discuss various possibilities to solve a particular problem. I am mostly self-taught but couldn't have reached here if I hadn't had help from my mentor <b>Mr. Saurabh Shukla</b>.</p>
  <br>
  <p>I am learning a lot from open source community and am amazed by the fact how knowledge sharing and collaboration is reaching a new milestone. I am looking forward to contribute to this wonderful community. So, if you are working on a project please feel free to reach out to me on any social media platforms listed above 👆.  DM's are open to all.</p>
+ 
+ <br>
+ 
+>  #### Let's talk on Clubhouse &nbsp; ⇢ &nbsp; id: @gautamkhatter7 
+ 
  <br>
  
  <pre><h4>🔹 Let's make this world a better place through the art of innovation and engineering.</h4></pre>
@@ -67,9 +74,8 @@
 🔸   I am looking forward to contribute to the open source community.
 </pre>
  
-<br> <br>
  
- > ### Let's 🗣 talk on &nbsp; <img alt="Gautam Khatter's Clubhouse" width="18px" src="/clubhouse.png_large" title="Clubhouse" />  Clubhouse ⇢ &nbsp;  &nbsp;  id: @gautamkhatter7
+
  
 <br>
 
