@@ -13,7 +13,7 @@
 <img align="left" alt="Gautam Khatter's youtube" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" title="YouTube" />
 <a href ="https://gautam-7.medium.com/">
 <img align="left" alt="Gautam's Medium" width="23px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Medium" />
-<a href="https://in.pinterest.com/gautam_7/_saved/">
+<a href="https://in.pinterest.com/gautam_7/_created/">
 <img align="left" alt="Gautam Khatter's pinterest" width="20px" src="/pinterest.svg" title="Pinterest" />
 <img alt="Gautam Khatter's Clubhouse" width="20px" src="/clubhouse.png_large" title="Clubhouse" />
 
