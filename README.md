@@ -40,46 +40,11 @@
  
  <pre><h4>🔹 Let's make this world a better place through the art of innovation and engineering.</h4></pre>
  
-  <br>
-
-  <details>
-  <summary> 📊 My GitHub Stat's</summary>
-  
-  <br>
-  
- [![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautam-07&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
- </details>
-
-  <br>
-
- <details>
- <summary> 🧮 Most Used Languages</summary>
-  
-  <br>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-07&layout=compact&theme=dracula&width=600px)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+<hr>
  
-<br>
+ <br>
  
-<h4>What I am upto these days 😬</h4>
- 
-<pre>
-🔸   Right now I am learning React.
-
-🔸   I am currently working on Campground based web app.
-
-🔸   Trying hard to solve DSA problems.
-
-🔸   I am looking forward to contribute to the open source community.
-</pre>
- 
- 
-
- 
-<br>
-
- <h2>Tech Stack 🛠</h2>
+<h3>Tech Stack 🛠</h3>
 
 
  
@@ -91,6 +56,38 @@
 ![Python Badge](https://img.shields.io/badge/-Python-F7DF1E?style=flat-square&logo=Python&logoColor=000&color=F7DF1E)|![NodeJs Badge](https://img.shields.io/badge/-Node.js-7952B3?style=flat-square&logo=Node.js&logoColor=white&color=7952B3)|![Redis Badge](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white&color=DC382D)|![GitHub Actions Badge](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white&color=2088FF)|
  
 
+ 
+ <br>
+<h4>What I am upto these days 😬</h4>
+
+🔸   Right now I am learning React.<br>
+🔸   I am currently working on Campground based web app.<br>
+🔸   Trying hard to solve DSA problems.<br>
+🔸   I am looking forward to contribute to the open source community.
+
+
+<br>
+
+
+   <br>
+
+  <details>
+  <summary> 📊 My GitHub Stat's</summary>
+  
+  <br>
+  
+ [![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautam-07&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ </details>
+
+
+
+ <details>
+ <summary> 🧮 Most Used Languages</summary>
+  
+  <br>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-07&layout=compact&theme=dracula&width=600px)](https://github.com/anuraghazra/github-readme-stats)
+</details>
  
 
  
