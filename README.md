@@ -7,6 +7,8 @@
 <img align="left" alt="Gautam Khatter's Facebook" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" title="Facebook" />
 <a href="https://twitter.com/GautamKhatter7">
 <img align="left" alt="Gautam Khatter | Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" title="Twitter" />
+<a href="https://www.instagram.com/gautamkhatter7/">
+<img alt="Gautam Khatter's Instagram" width="20px" src="/instagram.png" title="Instagram" />
 <a href="https://www.linkedin.com/in/gautamkhatter7">
 <img align="left" alt="Gautam Khatter's LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" title="LinkedIn" />
 <a href="https://www.youtube.com/channel/UCY9Rc7oBWZZXExtgJcsQluA">
@@ -15,7 +17,6 @@
 <img align="left" alt="Gautam's Medium" width="23px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Medium" />
 <a href="https://in.pinterest.com/gautam_7/_created/">
 <img align="left" alt="Gautam Khatter's pinterest" width="20px" src="/pinterest.svg" title="Pinterest" />
-<img alt="Gautam Khatter's Clubhouse" width="20px" src="/clubhouse.png_large" title="Clubhouse" />
 
  
 </a>
