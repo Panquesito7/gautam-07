@@ -3,7 +3,7 @@
  <br>
  
 
-<a href="https://www.facebook.com/gautamkhatter77/">
+<a href="https://www.facebook.com/itsgautamkhatter">
 <img align="left" alt="Gautam Khatter's Facebook" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" title="Facebook" />
 <a href="https://twitter.com/GautamKhatter7">
 <img align="left" alt="Gautam Khatter | Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" title="Twitter" />
