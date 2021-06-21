@@ -2,12 +2,13 @@
 <img src="/@drew.feig (1).png">
  <br>
  
+   
+<a href="https://www.linkedin.com/in/gautamkhatter7">
+<img align="left" alt="Gautam Khatter's LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" title="LinkedIn" />
  
 <a href="https://www.instagram.com/gautamkhatter7/">
 <img align="left" alt="Gautam Khatter's Instagram" width="20px" src="/instagram.png" title="Instagram" />
-  
-<a href="https://www.linkedin.com/in/gautamkhatter7">
-<img align="left" alt="Gautam Khatter's LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" title="LinkedIn" />
+
    
 <a href="https://in.pinterest.com/gautam_7/_created/">
 <img align="left" alt="Gautam Khatter's pinterest" width="20px" src="/pinterest.svg" title="Pinterest" />
