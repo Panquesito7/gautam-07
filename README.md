@@ -26,7 +26,6 @@
 
 <br> <br>
  
-
 > Hello Developers. I know rather reading someone's bio we enjoy writing code 😂
  
  <br>
@@ -43,12 +42,14 @@
  
  <pre>
  
-  My Mission 🚀
+  My Vision 🚀
   
  🔹 Let's make this world a better place through the art of innovation and engineering.
  </pre>
  
 <hr>
+ 
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"></p>
  
 <h3>Tech Stack 🛠</h3>
 
