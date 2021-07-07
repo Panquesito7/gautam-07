@@ -21,12 +21,13 @@
 <a href="https://www.linkedin.com/in/gautamkhatter7">
 <img align="left" alt="Gautam Khatter's LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" title="LinkedIn" />
  
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gautam-07.gautam-07) 
 </a>
 
-<br> <br>
+<br>
  
 > Hello Developers. I know rather reading someone's bio we enjoy writing code 😂
+
  
  <br>
 
@@ -34,7 +35,7 @@
  <br>
  <p>I am learning a lot from open source community and am amazed by the fact how knowledge sharing and collaboration is reaching a new milestone. I am looking forward to contribute to this wonderful community. So, if you are working on a project please feel free to reach out to me on any social media platforms listed above 👆.  DM's are open to all.</p>
  
- <br>
+ <br><br>
  
 >  <img align="left" width="22px" title="Clubhouse" src="clubhouse.png_large"> Let's talk on Clubhouse &nbsp; ⇢ &nbsp; id: @gautamkhatter7 
  
@@ -66,7 +67,7 @@
  
  <br>
 
-<h4>What I am upto these days 😬</h4>
+<h4>What I am upto these days? 😬</h4>
  
 <pre>
 🔸   Right now I am learning React.
@@ -80,6 +81,15 @@
 
    <br><br>
 
+ <details>
+ <summary> 📈 My Streak</summary>
+  
+  <br>
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gautam-07&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+</details>
+ 
+ 
   <details>
   <summary> 📊 My GitHub Stat's</summary>
   
@@ -97,6 +107,9 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-07&layout=compact&theme=dracula&width=600px)](https://github.com/anuraghazra/github-readme-stats)
 </details>
+ 
+ 
+
  
 
  
