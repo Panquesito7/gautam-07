@@ -1,25 +1,25 @@
 
 <img src="/banner.png">
- <br>
+ <br> <br>
  
    
 <a href="https://www.youtube.com/channel/UCY9Rc7oBWZZXExtgJcsQluA">
-<img align="left" alt="Gautam Khatter's youtube" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" title="YouTube" />
+<img align="left" alt="Gautam Khatter's youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" title="YouTube" />
  
 <a href="https://twitter.com/GautamKhatter7">
-<img align="left" alt="Gautam Khatter | Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" title="Twitter" />
+<img align="left" alt="Gautam Khatter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" title="Twitter" />
    
 <a href="https://www.facebook.com/itsgautamkhatter">
-<img align="left" alt="Gautam Khatter's Facebook" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" title="Facebook" />
+<img align="left" alt="Gautam Khatter's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" title="Facebook" />
  
 <a href="https://in.pinterest.com/gautam_7/_created/">
-<img align="left" alt="Gautam Khatter's pinterest" width="20px" src="/pinterest.svg" title="Pinterest" />
+<img align="left" alt="Gautam Khatter's pinterest" width="22px" src="/pinterest.svg" title="Pinterest" />
  
 <a href ="https://gautam-7.medium.com/">
-<img align="left" alt="Gautam's Medium" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Medium" />
+<img align="left" alt="Gautam's Medium" width="27px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Medium" />
         
 <a href="https://www.linkedin.com/in/gautamkhatter7">
-<img align="left" alt="Gautam Khatter's LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" title="LinkedIn" />
+<img align="left" alt="Gautam Khatter's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" title="LinkedIn" />
  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gautam-07.gautam-07) 
 </a>
@@ -39,7 +39,8 @@
  
 >  <img align="left" width="22px" title="Clubhouse" src="clubhouse.png_large"> Let's talk on Clubhouse &nbsp; ⇢ &nbsp; id: @gautamkhatter7 
  
- <br> 
+ <br>  
+<br>
  
  <pre>
  
@@ -48,9 +49,9 @@
  🔹 Let's make this world a better place through the art of innovation and engineering.
  </pre>
  
-<hr>
+
  
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"></p>
+<br>
  
 <h3>Tech Stack 🛠</h3>
 
@@ -64,10 +65,10 @@
 ![Python Badge](https://img.shields.io/badge/-Python-F7DF1E?style=flat-square&logo=Python&logoColor=000&color=F7DF1E)|![NodeJs Badge](https://img.shields.io/badge/-Node.js-7952B3?style=flat-square&logo=Node.js&logoColor=white&color=7952B3)|![Redis Badge](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white&color=DC382D)|![GitHub Actions Badge](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white&color=2088FF)|
  
 
- 
+
  <br>
 
-<h4>What I am upto these days? 😬</h4>
+<h3>What I am upto these days? 😬</h3>
  
 <pre>
 🔸   Right now I am learning React.
@@ -79,8 +80,10 @@
 🔸   I am looking forward to contribute to the open source community.
 </pre>
 
-   <br><br>
+   <br>
 
+<h3>Some More Information 🏷:-</h3>
+ 
  <details>
  <summary> 📈 My Streak</summary>
   
