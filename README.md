@@ -34,7 +34,7 @@
  
  <hr>
  
-<code>𝔸𝕓𝕠𝕦𝕥 𝕄𝕖 👋</code>
+ 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖 👋
  
  
  <p>
@@ -48,12 +48,12 @@ I am an engineer from <b>India</b> who is passionate about problem solving and t
  <br>
 <p>
  
->  <img align="left" width="22px" title="Clubhouse" src="clubhouse.png_large"> Let's talk on Clubhouse &nbsp; ⇢ &nbsp; id: @gautamkhatter7 
+>  <img align="left" width="20px" title="Clubhouse" src="clubhouse.png_large"> Let's talk on Clubhouse &nbsp; ⇢ &nbsp; id: @gautamkhatter7 
 </p>
  <hr>
 
 <p> 
- <code> 𝕄𝕪 𝕄𝕚𝕤𝕤𝕚𝕠𝕟 🚀</code>
+𝕄𝕪 𝕄𝕚𝕤𝕤𝕚𝕠𝕟 🚀
   
  ✪ &nbsp; &nbsp; Let's make this world a better place through the art of innovation and engineering.
  </p>
