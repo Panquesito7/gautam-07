@@ -43,7 +43,12 @@ I am an engineer from <b>India</b> who is passionate about problem solving and t
  
 <br> 
  <p>
- I am learning a lot from open source community and am amazed by the fact how knowledge sharing and collaboration is reaching a new milestone. I am looking forward to contribute to this wonderful community. If you wanna do any projects together, please feel free to DM me on LinkeIn or on Twitter.
+ I am learning a lot from open source community and am amazed by the fact how knowledge sharing and collaboration is reaching a new milestone. I am looking forward to contribute to this wonderful community. If you wanna do any projects together, please feel free to DM me on LinkedIn or Twitter.
+</p>
+ <br>
+<p>
+ 
+>  <img align="left" width="22px" title="Clubhouse" src="clubhouse.png_large"> Let's talk on Clubhouse &nbsp; ⇢ &nbsp; id: @gautamkhatter7 
 </p>
  <hr>
 
@@ -54,12 +59,6 @@ I am an engineer from <b>India</b> who is passionate about problem solving and t
  </p>
 <hr>
 
-<p>
- 
->  <img align="left" width="22px" title="Clubhouse" src="clubhouse.png_large"> Let's talk on Clubhouse &nbsp; ⇢ &nbsp; id: @gautamkhatter7 
-</p>
-<br>
- 
 <h3>Tech Stack 🛠</h3>
 
 
