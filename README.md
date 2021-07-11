@@ -32,11 +32,15 @@
  
 </p>
  
- <br>
-
- <code>𝔸𝕓𝕠𝕦𝕥 𝕄𝕖 👋</code>
  <hr>
- <p>I am an engineer from <b>India</b> who is passionate about problem solving and taking on challenging tasks. I usually work with <b>MERN</b> stack but I am always eager to learn new tools and technologies to increase my knowledge and expertise. I love meeting developers and engineers to discuss various possibilities to solve a particular problem. I am mostly self-taught but couldn't have reached here if I hadn't had help from my mentor <b>Mr. Saurabh Shukla</b>.</p>
+ 
+<code>𝔸𝕓𝕠𝕦𝕥 𝕄𝕖 👋</code>
+ 
+ 
+ <p>
+I am an engineer from <b>India</b> who is passionate about problem solving and taking on challenging tasks. I usually work with <b>MERN</b> stack but I am always eager to learn new tools and technologies to increase my knowledge and expertise. I love meeting developers and engineers to discuss various possibilities to solve a particular problem. I am mostly self-taught but couldn't have reached here if I hadn't had help from my mentor <b>Mr. Saurabh Shukla</b>.
+</p>
+ 
 <br> 
  <p>
  I am learning a lot from open source community and am amazed by the fact how knowledge sharing and collaboration is reaching a new milestone. I am looking forward to contribute to this wonderful community. If you wanna do any projects together, please feel free to DM me on LinkeIn or on Twitter.
