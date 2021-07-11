@@ -31,30 +31,28 @@
 > Hello Developers. I know rather reading someone's bio we enjoy writing code 😂
  
 </p>
--------------------------------------------------------------------------------------------------------------------------------------------------------
  
  <br>
- 
- 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖 👋
- 
- <p>I am an engineer from <b>India</b> who is passionate about problem solving and taking on challenging tasks. I usually work with <b>MERN</b> stack but I am always eager to learn new tools and technologies to increase my knowledge and expertise. I love meeting developers and engineers to discuss various possibilities to solve a particular problem. I am mostly self-taught but couldn't have reached here if I hadn't had help from my mentor <code><b>Mr. Saurabh Shukla</b></code>.</p>
+
+ <code>𝔸𝕓𝕠𝕦𝕥 𝕄𝕖 👋</code>
+ <hr>
+ <p>I am an engineer from <b>India</b> who is passionate about problem solving and taking on challenging tasks. I usually work with <b>MERN</b> stack but I am always eager to learn new tools and technologies to increase my knowledge and expertise. I love meeting developers and engineers to discuss various possibilities to solve a particular problem. I am mostly self-taught but couldn't have reached here if I hadn't had help from my mentor <b>Mr. Saurabh Shukla</b>.</p>
 <br> 
  <p>
- I am learning a lot from open source community and am amazed by the fact how knowledge sharing and collaboration is reaching a new milestone. I am looking forward to contribute to this wonderful community. If you wanna do any projects together, please feel free to DM me on LinkeIn or on Twitter. You can also mail me at <code> 📩 &nbsp;gomzekh@gmail.com</code>
+ I am learning a lot from open source community and am amazed by the fact how knowledge sharing and collaboration is reaching a new milestone. I am looking forward to contribute to this wonderful community. If you wanna do any projects together, please feel free to DM me on LinkeIn or on Twitter.
 </p>
- 
+ <hr>
+
 <p> 
--------------------------------------------------------------------------------------------------------------------------------------------------------
- 
- 𝕄𝕪 𝕄𝕚𝕤𝕤𝕚𝕠𝕟 🚀
+ <code> 𝕄𝕪 𝕄𝕚𝕤𝕤𝕚𝕠𝕟 🚀</code>
   
  ✪ &nbsp; &nbsp; Let's make this world a better place through the art of innovation and engineering.
  </p>
--------------------------------------------------------------------------------------------------------------------------------------------------------
+<hr>
+
 <p>
  
 >  <img align="left" width="22px" title="Clubhouse" src="clubhouse.png_large"> Let's talk on Clubhouse &nbsp; ⇢ &nbsp; id: @gautamkhatter7 
- 
 </p>
 <br>
  
@@ -116,10 +114,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-07&layout=compact&theme=dracula&width=600px)](https://github.com/anuraghazra/github-readme-stats)
 </details>
  
- <br>
+ <hr>
  
-✦-----------------------------------------------------------------✦-✦-✦-✦-✦-------------------------------------------------------------------✦
- 
+
 
  
 
