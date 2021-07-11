@@ -83,7 +83,7 @@
 <h3>Some More Information 🏷:-</h3>
  
  <details>
- <summary> 📈 My Streak</summary>
+ <summary> 📈  &nbsp;  &nbsp; My Streak</summary>
   
   <br>
   
@@ -92,7 +92,7 @@
  
  
   <details>
-  <summary> 📊 My GitHub Stat's</summary>
+  <summary> 📊  &nbsp;  &nbsp; My GitHub Stat's</summary>
   
   <br>
   
@@ -102,7 +102,7 @@
 
 
  <details>
- <summary> 🧮 Most Used Languages</summary>
+ <summary> 🧮  &nbsp;  &nbsp; Most Used Languages</summary>
   
   <br>
   
