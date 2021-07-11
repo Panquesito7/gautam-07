@@ -25,32 +25,29 @@
 </a>
 
 <br>
+
+<p> 
  
 > Hello Developers. I know rather reading someone's bio we enjoy writing code 😂
-
  
- <br>
-
+ </p>
+-------------------------------------------------------------------------------------------------------------------------------------------------------
  </p>I am an engineer from <b>India</b> who is passionate about problem solving and taking on challenging tasks. I usually work with <b>MERN</b> stack but I am always eager to learn new tools and technologies to increase my knowledge and expertise. I love meeting developers and engineers to discuss various possibilities to solve a particular problem. I am mostly self-taught but couldn't have reached here if I hadn't had help from my mentor <b>Mr. Saurabh Shukla</b>.</p>
- <br>
+-------------------------------------------------------------------------------------------------------------------------------------------------------
  <p>I am learning a lot from open source community and am amazed by the fact how knowledge sharing and collaboration is reaching a new milestone. I am looking forward to contribute to this wonderful community. So, if you are working on a project please feel free to reach out to me on any social media platforms listed above 👆.  DM's are open to all.</p>
  
- <br><br>
+<p> 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+ 𝕄𝕪 𝕄𝕚𝕤𝕤𝕚𝕠𝕟 🚀
+  
+ ✪ &nbsp; &nbsp; Let's make this world a better place through the art of innovation and engineering.
+ </p>
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+<p>
  
 >  <img align="left" width="22px" title="Clubhouse" src="clubhouse.png_large"> Let's talk on Clubhouse &nbsp; ⇢ &nbsp; id: @gautamkhatter7 
  
- <br>  
-<br>
- 
- <pre>
- 
-  My Vision 🚀
-  
- 🔹 Let's make this world a better place through the art of innovation and engineering.
- </pre>
- 
-
- 
+</p>
 <br>
  
 <h3>Tech Stack 🛠</h3>
