@@ -48,13 +48,13 @@ About Me
  <br>
 <p>
  
->  <img align="left" width="20px" title="Clubhouse" src="clubhouse.png_large"> Let's talk on Clubhouse &nbsp; ⇢ &nbsp; id: @gautamkhatter7 
+>  <img align="left" width="20px" title="Clubhouse" src="clubhouse.png_large"> Wanna talk on Clubhouse? &nbsp; ⇢ &nbsp; id: @gautamkhatter7 
 </p>
-
-
+<br> 
+ 
    <pre> 
 𝕄𝕪 𝕄𝕚𝕤𝕤𝕚𝕠𝕟 🚀
- 
+
 ✪ &nbsp;Let's make this world a better place through the art of innovation and engineering.
  </pre>
  
@@ -92,7 +92,7 @@ About Me
 <h3>Some More Information 🏷:-</h3>
  
  <details>
- <summary> 📈  &nbsp;  &nbsp; My Streak</summary>
+ <summary> 📈 &nbsp; My Streak</summary>
   
   <br>
   
@@ -101,7 +101,7 @@ About Me
  
  
   <details>
-  <summary> 📊  &nbsp;  &nbsp; My GitHub Stat's</summary>
+  <summary> 📊 &nbsp; My GitHub Stat's</summary>
   
   <br>
   
@@ -111,7 +111,7 @@ About Me
 
 
  <details>
- <summary> 🧮  &nbsp;  &nbsp; Most Used Languages</summary>
+ <summary> 🧮 &nbsp; Most Used Languages</summary>
   
   <br>
   
