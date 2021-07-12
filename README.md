@@ -38,17 +38,17 @@ About Me
  
  
  <p>
-  Hi 👋, I am Gautam Khatter and I am an engineer from <b><i>India</i></b> who is passionate about problem solving and taking on challenging tasks. I usually work with <b><i>MERN</i></b> stack but I am always eager to learn new tools and technologies to increase my knowledge and expertise. I love meeting developers and engineers to discuss various possibilities to solve a particular problem. I am mostly self-taught but couldn't have reached here if I hadn't had help from my mentor <b><i>Mr. Saurabh Shukla</i></b>.
+  Hi 👋, I am <code>Gautam Khatter</code> and I am an engineer from <code><b>India</b></code> who is passionate about problem solving and taking on challenging tasks. I usually work with <code><b>MERN</code></b> stack but I am always eager to learn new tools and technologies to increase my knowledge and expertise. I love meeting developers and engineers to discuss various possibilities to solve a particular problem. I am mostly self-taught but couldn't have reached here if I hadn't had help from my mentor <code><b>Mr. Saurabh Shukla</b></code>.
 </p>
  
 <br> 
  <p>
- I am learning a lot from open source community and am amazed by the fact how knowledge sharing and collaboration is reaching a new milestone. I am looking forward to contribute to this wonderful community. If you wanna do any projects together, please feel free to DM me on LinkedIn or Twitter.
+ I am learning a lot from open source community and am amazed by the fact how knowledge sharing and collaboration is reaching a new milestone. I am looking forward to contribute to this wonderful community. If you wanna do any projects together, please feel free to DM me on <code>LinkedIn</code> or <code>Twitter</code>.
 </p>
  <br>
 <p>
  
->  <img align="left" width="20px" title="Clubhouse" src="clubhouse.png_large"> Wanna talk on Clubhouse? &nbsp; ⇢ &nbsp; id: @gautamkhatter7 
+>  <img align="left" width="20px" title="Clubhouse" src="clubhouse.png_large"> Wanna talk on Clubhouse? &nbsp; ⇢ &nbsp; id: @gautamkhatter7
 </p>
 <br> 
  
@@ -65,7 +65,7 @@ About Me
 
 
  
- |Programming Languages|Frameworks & Libraries| Databases|Tools & IDE's|
+ |<i>Programming Languages</i>|<i>Frameworks & Libraries</i>|<i>Databases</i>|<i>Tools & IDE's</i>|
  |----|----|----|----|
  |![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&color=3776AB)|![React Badge](https://img.shields.io/badge/-React-4FC08D?style=flat-square&logo=react&logoColor=white&color=4FC08D)|![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&color=4479A1)|![VsCode Badge](https://img.shields.io/badge/-VsCode-000?style=flat-square&logo=VsCode&logoColor=white&color=0769AD)|
  ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000&color=F7DF1E)| ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white&color=7952B3)|![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&color=47A248)|![git Badge](https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white&color=F05032)|
@@ -85,7 +85,7 @@ About Me
  
 🔸   Trying hard to solve DSA problems.
  
-🔸   I am looking forward to contribute to the open source community.
+🔸   I am devoting time to grow my network on LinkedIn
 </pre>
 
    <br>
@@ -93,7 +93,7 @@ About Me
 <h3>Some More Information 🏷:-</h3>
  
  <details>
- <summary> 📈 &nbsp; My Streak</summary>
+  <summary> 📈 &nbsp; <i>My Streak</i></summary>
   
   <br>
   
@@ -102,7 +102,7 @@ About Me
  
  
   <details>
-  <summary> 📊 &nbsp; My GitHub Stat's</summary>
+   <summary> 📊 &nbsp; <i>My GitHub Stat's</i></summary>
   
   <br>
   
@@ -112,7 +112,7 @@ About Me
 
 
  <details>
- <summary> 🧮 &nbsp; Most Used Languages</summary>
+  <summary> 🧮 &nbsp; <i>Most Used Languages</i></summary>
   
   <br>
   
