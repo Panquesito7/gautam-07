@@ -55,7 +55,8 @@ About Me
    <pre> 
 𝕄𝕪 𝕄𝕚𝕤𝕤𝕚𝕠𝕟 🚀
 
-✪ &nbsp;Let's make this world a better place through the art of innovation and engineering.
+✪ &nbsp;Helping the open source movement.
+✪ &nbsp;Making the world technologically advanced through the art of innovation and engineering.
  </pre>
  
 <hr>
