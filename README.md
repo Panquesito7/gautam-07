@@ -80,7 +80,7 @@
  
 <pre>
 🔸   Right now I am learning React.
- <img align="right" width=110px src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif">
+ <img align="right" width=90px src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif">
 🔸   I am currently working on Campground based web app.
  
 🔸   Trying hard to solve DSA problems.
