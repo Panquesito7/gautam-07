@@ -48,14 +48,14 @@ About Me
  <br>
 <p>
  
->  <img align="left" width="20px" title="Clubhouse" src="clubhouse.png_large"> Wanna talk on Clubhouse? &nbsp; ⇢ &nbsp; id: @gautamkhatter7
+>  <img align="left" width="20px" title="Clubhouse" src="gmail.png"> You can also mail me at &nbsp; ⇢ &nbsp; gautamkhatter.contact@gmail.com
 </p>
 <br> 
  
    <pre> 
 𝕄𝕪 𝕄𝕚𝕤𝕤𝕚𝕠𝕟 🚀
 
-✪ &nbsp;Helping the open source movement.
+✪ &nbsp;Helping, every possible way in open source movement.
 ✪ &nbsp;Making the world technologically advanced through the art of innovation and engineering.
  </pre>
  
@@ -118,6 +118,10 @@ About Me
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-07&layout=compact&theme=dracula&width=600px)](https://github.com/anuraghazra/github-readme-stats)
 </details>
+ 
+ <hr>
+ 
+>  <img align="left" width="20px" title="Clubhouse" src="clubhouse.png_large"> Wanna talk on Clubhouse? &nbsp; ⇢ &nbsp; id: @gautamkhatter7
  
  <hr>
  
