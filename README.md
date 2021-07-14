@@ -1,3 +1,4 @@
+<br>
 
 <img src="/banner.png">
  <br> <br>
@@ -32,7 +33,7 @@
  
 </p>
  
- <hr>
+ <br>
  
 #### <i>About Me</i>
  
@@ -45,12 +46,12 @@
  <p>
  I am learning a lot from open source community and am amazed by the fact how knowledge sharing and collaboration is reaching a new milestone. I am looking forward to contribute to this wonderful community. If you wanna do any projects together, please feel free to DM me on <code>LinkedIn</code> or <code>Twitter</code>.
 </p>
- <br>
-<p>
  
->  <img align="left" width="20px" title="Clubhouse" src="gmail.png"> You can also mail me at &nbsp; ⇢ &nbsp; <code>gautamkhatter.contact@gmail.com</code>
-</p>
-<br> 
+ <br>
+ 
+>  <img align="left" width="20px" title="e-mail" src="gmail.png"> You can also mail me at &nbsp; ⇢ &nbsp; <code>gautamkhatter.contact@gmail.com</code>
+ 
+ <hr>
  
  <h4><i>What I am upto these days? </i>😬</h4>
 
@@ -60,20 +61,10 @@
 🤯 &nbsp; ⇢  &nbsp; Trying hard to solve DSA problems.<br>
 👥 &nbsp; ⇢  &nbsp; I am devoting time to grow my network on LinkedIn.<br>
 😂 &nbsp; ⇢  &nbsp; I made this acoount in 2018 when I didn't even knew what GitHub was.
-
+ 
  <br>
  
- <hr>
- 
-𝕄𝕪 𝕄𝕚𝕤𝕤𝕚𝕠𝕟 &nbsp; 🚀
-
-✪ &nbsp;Helping, every possible way in open source movement.<br>
-✪ &nbsp;Making the world technologically advanced through the art of innovation and engineering.
-
- 
-<hr>
-
-<h3><i>Some more information &nbsp; </i>🏷:-</h3>
+<h4><i>Some more information &nbsp; </i>🏷:-</h4>
 
  <img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
  
@@ -103,8 +94,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-07&layout=compact&theme=dracula&width=600px)](https://github.com/anuraghazra/github-readme-stats)
 </details>
  
- <br>
- 
+ <hr>
+
  <h3><i>Tech Stack</i> &nbsp; 🛠</h3>
 
 
@@ -115,13 +106,14 @@
  ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000&color=F7DF1E)| ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white&color=7952B3)|![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&color=47A248)|![git Badge](https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white&color=F05032)|
 ![Java Badge](https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=Java&logoColor=white&color=3776AB)|![Jquery Badge](https://img.shields.io/badge/-Jquery-0769AD?style=flat-square&logo=Jquery&logoColor=white&color=0769AD)|![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white&color=336791)|![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&color=2496ED)|
 ![Python Badge](https://img.shields.io/badge/-Python-F7DF1E?style=flat-square&logo=Python&logoColor=000&color=F7DF1E)|![NodeJs Badge](https://img.shields.io/badge/-Node.js-7952B3?style=flat-square&logo=Node.js&logoColor=white&color=7952B3)|![Redis Badge](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white&color=DC382D)|![GitHub Actions Badge](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white&color=2088FF)|
-
-
+ 
+ 
+ 
+ 
 <hr>
  
->  <img align="left" width="20px" title="Clubhouse" src="clubhouse.png_large"> Wanna talk on Clubhouse? &nbsp; ⇢ &nbsp; id: <code>@gautamkhatter7</code>
- 
- <hr>
+
+
  
 
 
