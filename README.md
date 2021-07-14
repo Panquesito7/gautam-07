@@ -34,7 +34,7 @@
  
  <hr>
  
-About Me
+#### About Me
  
  
  <p>
@@ -80,7 +80,7 @@ About Me
  
 <pre>
 🔸   Right now I am learning React.
- 
+ <img align="right" width=110px src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif">
 🔸   I am currently working on Campground based web app.
  
 🔸   Trying hard to solve DSA problems.
@@ -91,6 +91,8 @@ About Me
    <br>
 
 <h3>Some More Information 🏷:-</h3>
+
+ <img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
  
  <details>
   <summary> 📈 &nbsp; <i>My Streak</i></summary>
@@ -99,7 +101,6 @@ About Me
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gautam-07&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 </details>
- 
  
   <details>
    <summary> 📊 &nbsp; <i>My GitHub Stat's</i></summary>
@@ -118,6 +119,7 @@ About Me
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-07&layout=compact&theme=dracula&width=600px)](https://github.com/anuraghazra/github-readme-stats)
 </details>
+ 
  
  <hr>
  
