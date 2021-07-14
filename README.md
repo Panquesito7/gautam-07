@@ -48,7 +48,7 @@ About Me
  <br>
 <p>
  
->  <img align="left" width="20px" title="Clubhouse" src="gmail.png"> You can also mail me at &nbsp; ⇢ &nbsp; gautamkhatter.contact@gmail.com
+>  <img align="left" width="20px" title="Clubhouse" src="gmail.png"> You can also mail me at &nbsp; ⇢ &nbsp; <code>gautamkhatter.contact@gmail.com</code>
 </p>
 <br> 
  
