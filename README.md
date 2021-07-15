@@ -38,29 +38,29 @@
  
  
  <p>
-  Hi &nbsp; 👋 , &nbsp; I am <code>Gautam Khatter</code> and I am an engineer from <code><b>India</b></code> who is passionate about problem solving and taking on challenging tasks. I usually work with <code><b>MERN</code></b> stack but I am always eager to learn new tools and technologies to increase my knowledge and expertise. I love meeting developers and engineers to discuss various possibilities to solve a particular problem. I am mostly self-taught but couldn't have reached here if I hadn't had help from my mentor <code><b>Mr. Saurabh Shukla</b></code>.
+ Hi &nbsp; 👋 , &nbsp; I am <code>Gautam Khatter</code> and I am an engineer from <code><b>India</b></code> who is passionate about problem solving and taking on challenging tasks. I usually work with <code><b>MERN</code></b> stack but I am always eager to learn new tools and technologies to increase my knowledge and expertise. I love meeting developers and engineers to discuss various possibilities to solve a particular problem. I am mostly self-taught but couldn't have reached here if I hadn't had help from my mentor <code><b>Mr. Saurabh Shukla</b></code>.
 </p>
  
-<br> 
- <p>
- I am learning a lot from open source community and am amazed by the fact how knowledge sharing and collaboration is reaching a new milestone. I am looking forward to contribute to this wonderful community. If you wanna do any projects together, please feel free to DM me on <code>LinkedIn</code> or <code>Twitter</code>.
+ <br>
+ 
+<p>
+I love meeting new people but I am really shy in front of a camera 😂, because of this I do not know am I an extrovert or introvert. My favourite topics includes engineering (any branch because I love them all), software design, astrophysics, marine biology, investing, and many more. So, one thing I can say about me is that I will not let you get bored.   
 </p>
  
- <br><br>
  
->  <img align="left" width="20px" title="e-mail" src="gmail.png"> You can also mail me at &nbsp; ⇢ &nbsp; <code>gautamkhatter.contact@gmail.com</code>
  
 <br>
  
  <h4><i>What I am upto these days? </i>😬</h4>
+<pre>
+🌱 &nbsp; ⇢  &nbsp; Right now I am learning React.
+💻 &nbsp; ⇢  &nbsp; I am currently working on Campground based web app.
+🤯 &nbsp; ⇢  &nbsp; Trying hard to solve DSA problems.
+👥 &nbsp; ⇢  &nbsp; I am devoting time to grow my network on LinkedIn.
+😂 &nbsp; ⇢  &nbsp; Fun Fact: I made this acoount in 2018 when I didn't even knew what GitHub was.
+</pre>
 
-🌱 &nbsp; ⇢  &nbsp; <code>Right now I am learning React.</code><br>
-💻 &nbsp; ⇢  &nbsp; <code>I am currently working on Campground based web app.</code> <br>
-🤯 &nbsp; ⇢  &nbsp; <code>Trying hard to solve DSA problems.</code><br>
-👥 &nbsp; ⇢  &nbsp; <code>I am devoting time to grow my network on LinkedIn.</code><br>
-😂 &nbsp; ⇢  &nbsp; <code>Fun Fact: &nbsp; I made this acoount in 2018 when I didn't even knew what GitHub was.</code>
-
-<hr>
+ <br>
  
 <h4><i>Some more information &nbsp; </i>🏷:-</h4>
 
@@ -93,7 +93,14 @@
 </details>
 
  <br>
-
+<p>
+ I am learning a lot from open source community and I am amazed by the fact how knowledge sharing and collaboration is reaching a new milestone. I am looking forward to contribute to this wonderful community. If you wanna do any projects together, please feel free to DM me on <code>LinkedIn</code> or <code>Twitter</code>.
+</p>
+ <br>
+ <br>
+ 
+>  <img align="left" width="20px" title="e-mail" src="gmail.png"> You can also mail me at &nbsp; ⇢ &nbsp; <code>gautamkhatter.contact@gmail.com</code>
+ <br>
  <h3><i>Tech Stack</i> &nbsp; 🛠</h3>
 
 
