@@ -97,7 +97,6 @@ I love meeting new people but I am really shy in front of a camera 😂, because
  I am learning a lot from open source community and I am amazed by the fact how knowledge sharing and collaboration is reaching a new milestone. I am looking forward to contribute to this wonderful community. If you wanna do any projects together, please feel free to DM me on <code>LinkedIn</code> or <code>Twitter</code>.
 </p>
  <br>
- <br>
  
 >  <img align="left" width="20px" title="e-mail" src="gmail.png"> You can also mail me at &nbsp; ⇢ &nbsp; <code>gautamkhatter.contact@gmail.com</code>
  <br>
