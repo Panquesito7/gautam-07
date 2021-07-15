@@ -24,11 +24,12 @@
  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gautam-07.gautam-07) 
 </a>
-
-<br>
  
 <img align="right" width=90px src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif">
  
+<br>
+ 
+
 > Hello Developers. I know rather reading someone's bio we enjoy writing code 😂
  
  
@@ -38,12 +39,13 @@
  
  
  <p>
- Hi &nbsp; 👋 , &nbsp; I am <code>Gautam Khatter</code> and I am an engineer from <code><b>India</b></code> who is passionate about problem solving and taking on challenging tasks. I usually work with <code><b>MERN</code></b> stack but I am always eager to learn new tools and technologies to increase my knowledge and expertise. I love meeting developers and engineers to discuss various possibilities to solve a particular problem. I am mostly self-taught but couldn't have reached here if I hadn't had help from my mentor <code><b>Mr. Saurabh Shukla</b></code>.
+  Hi &nbsp; 👋 , &nbsp; I am <b>Gautam Khatter<b>. <br><br>
+  I am an engineer from <b>India</b> who is passionate about problem solving and taking on challenging tasks. I work with <code><b>M E R N</code></b> stack but I am always eager to learn new tools and technologies to increase my knowledge and expertise. I love meeting developers and engineers to discuss various possibilities to solve a particular problem. I am mostly self-taught but couldn't have reached here if I hadn't had help from my mentor <b>Mr. Saurabh Shukla</b>.
 </p>
  
  <br>
  
-> <img align="left" width="20px" title="Clubhouse" src="/clubhouse.png_large"> &nbsp; Let's talk on Clubhouse &nbsp; ⇢ &nbsp; id: @gautamkhatter7
+> <img align="left" width="20px" title="Clubhouse" src="/clubhouse.png_large"> &nbsp; Let's talk on Clubhouse &nbsp; ⇢ &nbsp; id: <code>@gautamkhatter7</code>
 <p>
 I love meeting new people but I am really shy in front of a camera 😂, because of this I do not know am I an extrovert or introvert. My favourite topics includes engineering (any branch because I love them all), software design, astrophysics, marine biology, investing, and many more. So, one thing I can say about me is that I will not let you get bored.   
 </p>
@@ -116,7 +118,7 @@ I love meeting new people but I am really shy in front of a camera 😂, because
  
  
  
-<hr>
+
  
 
 
