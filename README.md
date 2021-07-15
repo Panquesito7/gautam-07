@@ -43,11 +43,12 @@
  
  <br>
  
+> <img align="left" width="20px" title="Clubhouse" src="/clubhouse.png_large"> &nbsp; Let's talk on Clubhouse &nbsp; ⇢ &nbsp; id: @gautamkhatter7
 <p>
 I love meeting new people but I am really shy in front of a camera 😂, because of this I do not know am I an extrovert or introvert. My favourite topics includes engineering (any branch because I love them all), software design, astrophysics, marine biology, investing, and many more. So, one thing I can say about me is that I will not let you get bored.   
 </p>
  
- 
+
  
 <br>
  
