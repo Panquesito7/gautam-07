@@ -26,12 +26,11 @@
 </a>
 
 <br>
-
-<p> 
+ 
+<img align="right" width=90px src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif">
  
 > Hello Developers. I know rather reading someone's bio we enjoy writing code 😂
  
-</p>
  
  <br>
  
@@ -47,22 +46,21 @@
  I am learning a lot from open source community and am amazed by the fact how knowledge sharing and collaboration is reaching a new milestone. I am looking forward to contribute to this wonderful community. If you wanna do any projects together, please feel free to DM me on <code>LinkedIn</code> or <code>Twitter</code>.
 </p>
  
- <br>
+ <br><br>
  
 >  <img align="left" width="20px" title="e-mail" src="gmail.png"> You can also mail me at &nbsp; ⇢ &nbsp; <code>gautamkhatter.contact@gmail.com</code>
  
- <hr>
+<br>
  
  <h4><i>What I am upto these days? </i>😬</h4>
 
-🌱 &nbsp; ⇢  &nbsp; Right now I am learning React.<br>
- <img align="right" width=90px src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif">
-🧑‍💻 &nbsp; ⇢  &nbsp; I am currently working on Campground based web app. <br>
-🤯 &nbsp; ⇢  &nbsp; Trying hard to solve DSA problems.<br>
-👥 &nbsp; ⇢  &nbsp; I am devoting time to grow my network on LinkedIn.<br>
-😂 &nbsp; ⇢  &nbsp; I made this acoount in 2018 when I didn't even knew what GitHub was.
- 
- <br>
+🌱 &nbsp; ⇢  &nbsp; <code>Right now I am learning React.</code><br>
+💻 &nbsp; ⇢  &nbsp; <code>I am currently working on Campground based web app.</code> <br>
+🤯 &nbsp; ⇢  &nbsp; <code>Trying hard to solve DSA problems.</code><br>
+👥 &nbsp; ⇢  &nbsp; <code>I am devoting time to grow my network on LinkedIn.</code><br>
+😂 &nbsp; ⇢  &nbsp; <code>Fun Fact: &nbsp; I made this acoount in 2018 when I didn't even knew what GitHub was.</code>
+
+<hr>
  
 <h4><i>Some more information &nbsp; </i>🏷:-</h4>
 
@@ -93,8 +91,8 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-07&layout=compact&theme=dracula&width=600px)](https://github.com/anuraghazra/github-readme-stats)
 </details>
- 
- <hr>
+
+ <br>
 
  <h3><i>Tech Stack</i> &nbsp; 🛠</h3>
 
