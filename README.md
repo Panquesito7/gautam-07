@@ -2,8 +2,7 @@
 
 <img src="/banner.png">
  
- 
- <hr>
+ <br><br>
  
 <a href="https://www.youtube.com/channel/UCY9Rc7oBWZZXExtgJcsQluA">
 <img align="left" alt="Gautam Khatter's youtube" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" title="YouTube" />
@@ -64,7 +63,7 @@ I love meeting new people but I am really shy in front of a camera 😂, because
 😂 &nbsp; ⇢  &nbsp; <i>Fun Fact</i>: I made this acoount in 2018 when I didn't even knew what GitHub was.
 </pre>
 
- <br>
+
  
 <h4><i>Some more information &nbsp; </i>🏷:-</h4>
 
