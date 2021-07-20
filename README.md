@@ -2,7 +2,7 @@
 
 <img src="/banner.png">
  
- <br><br>
+ <br>
  
 <a href="https://www.youtube.com/channel/UCY9Rc7oBWZZXExtgJcsQluA">
 <img align="left" alt="Gautam Khatter's youtube" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" title="YouTube" />
@@ -22,7 +22,7 @@
  
 </a>
  <br>
-  <hr>
+
  
 <img align="right" width=90px src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif">
  
