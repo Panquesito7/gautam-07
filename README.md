@@ -60,7 +60,7 @@ I love meeting new people but I am really shy in front of a camera 😂, because
 💻 &nbsp; ⇢  &nbsp; I am currently working on Campground based web app.
 🤯 &nbsp; ⇢  &nbsp; Trying hard to solve DSA problems.
 👥 &nbsp; ⇢  &nbsp; I am devoting time to grow my network on LinkedIn.
-😂 &nbsp; ⇢  &nbsp; Fun Fact: I made this acoount in 2018 when I didn't even knew what GitHub was.
+😂 &nbsp; ⇢  &nbsp; <i>Fun Fact</i>: I made this acoount in 2018 when I didn't even knew what GitHub was.
 </pre>
 
  <br>
