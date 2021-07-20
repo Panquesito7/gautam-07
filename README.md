@@ -1,7 +1,7 @@
 <br>
 
 <img src="/banner.png">
- <br> <br>
+ 
  
  <hr>
  
@@ -39,9 +39,9 @@
 #### <i>About Me</i>
  
  
- <p>
-  Hi &nbsp; 👋 , &nbsp; I am <b>Gautam Khatter<b>. <br><br>
-  I am an engineer from <b>India</b> who is passionate about problem solving and taking on challenging tasks. I work with <code><b>M E R N</code></b> stack but I am always eager to learn new tools and technologies to increase my knowledge and expertise. I love meeting developers and engineers to discuss various possibilities to solve a particular problem. I am mostly self-taught but couldn't have reached here if I hadn't had help from my mentor <b>Mr. Saurabh Shukla</b>.
+<p>
+Hi &nbsp; 👋 , &nbsp; I am <b>Gautam Khatter<b>. <br><br>
+I am an engineer from <b>India</b> who is passionate about problem solving and taking on challenging tasks. I work with <code><b>M E R N</code></b> stack but I am always eager to learn new tools and technologies to increase my knowledge and expertise. I love meeting developers and engineers to discuss various possibilities to solve a particular problem. I am mostly self-taught but couldn't have reached here if I hadn't had help from my mentor <b>Mr. Saurabh Shukla</b>.
 </p>
  
  <br>
@@ -53,7 +53,7 @@ I love meeting new people but I am really shy in front of a camera 😂, because
  
 
  
-<br>
+<br><br>
  
  <h4><i>What I am upto these days? </i>😬</h4>
 <pre>
@@ -97,14 +97,15 @@ I love meeting new people but I am really shy in front of a camera 😂, because
 </details>
 
 
- <hr>
+ <br><hr>
 <p>
- I am learning a lot from open source community and I am amazed by the fact how knowledge sharing and collaboration is reaching a new milestone. I am looking forward to contribute to this wonderful community. If you wanna do any projects together, please feel free to DM me on <code>LinkedIn</code> or <code>Twitter</code>.
+I am learning a lot from open source community and I am amazed by the fact how knowledge sharing and collaboration is reaching a new milestone. I am looking forward to contribute to this wonderful community. If you wanna do any projects together, please feel free to DM me on <code>LinkedIn</code> or <code>Twitter</code>.
 </p>
-
  
 >  <img align="left" width="20px" title="e-mail" src="gmail.png"> You can also mail me at &nbsp; ⇢ &nbsp; <code>gautamkhatter.contact@gmail.com</code>
- <br>
+  
+<hr>
+
  <h4><i>Tech Stack</i> &nbsp; 🛠</h4>
 
 
