@@ -3,7 +3,8 @@
 <img src="/banner.png">
  <br> <br>
  
-   
+ <hr>
+ 
 <a href="https://www.youtube.com/channel/UCY9Rc7oBWZZXExtgJcsQluA">
 <img align="left" alt="Gautam Khatter's youtube" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" title="YouTube" />
  
@@ -13,8 +14,6 @@
 <a href="https://www.facebook.com/itsgautamkhatter">
 <img align="left" alt="Gautam Khatter's Facebook" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" title="Facebook" />
  
-<a href="https://in.pinterest.com/gautam_7/_created/">
-<img align="left" alt="Gautam Khatter's pinterest" width="20px" src="/pinterest.svg" title="Pinterest" />
  
 <a href ="https://gautam-7.medium.com/">
 <img align="left" alt="Gautam's Medium" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Medium" />
@@ -22,11 +21,13 @@
 <a href="https://www.linkedin.com/in/gautamkhatter7">
 <img align="left" alt="Gautam Khatter's LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" title="LinkedIn" />
  
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=gautam-07.gautam-07) 
 </a>
+ <br>
+  <hr>
  
 <img align="right" width=90px src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif">
  
+
 <br>
  
 
